@@ -1,0 +1,4076 @@
+[
+  {
+    "state_code": "S26", 
+    "state_name": "Chhattisgarh", 
+    "ac_code": "53", 
+    "ac_name": "Abhanpur"
+  }, 
+  {
+    "state_code": "S26", 
+    "state_name": "Chhattisgarh", 
+    "ac_code": "67", 
+    "ac_name": "Ahiwara"
+  }, 
+  {
+    "state_code": "S26", 
+    "state_name": "Chhattisgarh", 
+    "ac_code": "33", 
+    "ac_name": "Akaltara"
+  }, 
+  {
+    "state_code": "S26", 
+    "state_name": "Chhattisgarh", 
+    "ac_code": "10", 
+    "ac_name": "Ambikapur"
+  }, 
+  {
+    "state_code": "S26", 
+    "state_name": "Chhattisgarh", 
+    "ac_code": "79", 
+    "ac_name": "Antagarh"
+  }, 
+  {
+    "state_code": "S26", 
+    "state_name": "Chhattisgarh", 
+    "ac_code": "52", 
+    "ac_name": "Arang"
+  }, 
+  {
+    "state_code": "S26", 
+    "state_name": "Chhattisgarh", 
+    "ac_code": "3", 
+    "ac_name": "Baikunthpur"
+  }, 
+  {
+    "state_code": "S26", 
+    "state_name": "Chhattisgarh", 
+    "ac_code": "45", 
+    "ac_name": "Balodabazar"
+  }, 
+  {
+    "state_code": "S26", 
+    "state_name": "Chhattisgarh", 
+    "ac_code": "40", 
+    "ac_name": "Basna"
+  }, 
+  {
+    "state_code": "S26", 
+    "state_name": "Chhattisgarh", 
+    "ac_code": "85", 
+    "ac_name": "Bastar"
+  }, 
+  {
+    "state_code": "S26", 
+    "state_name": "Chhattisgarh", 
+    "ac_code": "31", 
+    "ac_name": "Beltara"
+  }, 
+  {
+    "state_code": "S26", 
+    "state_name": "Chhattisgarh", 
+    "ac_code": "69", 
+    "ac_name": "Bemetara"
+  }, 
+  {
+    "state_code": "S26", 
+    "state_name": "Chhattisgarh", 
+    "ac_code": "80", 
+    "ac_name": "Bhanupratappur"
+  }, 
+  {
+    "state_code": "S26", 
+    "state_name": "Chhattisgarh", 
+    "ac_code": "1", 
+    "ac_name": "Bharatpur-sonhat"
+  }, 
+  {
+    "state_code": "S26", 
+    "state_name": "Chhattisgarh", 
+    "ac_code": "46", 
+    "ac_name": "Bhatapara"
+  }, 
+  {
+    "state_code": "S26", 
+    "state_name": "Chhattisgarh", 
+    "ac_code": "5", 
+    "ac_name": "Bhatgaon"
+  }, 
+  {
+    "state_code": "S26", 
+    "state_name": "Chhattisgarh", 
+    "ac_code": "65", 
+    "ac_name": "Bhilai Nagar"
+  }, 
+  {
+    "state_code": "S26", 
+    "state_name": "Chhattisgarh", 
+    "ac_code": "89", 
+    "ac_name": "Bijapur"
+  }, 
+  {
+    "state_code": "S26", 
+    "state_name": "Chhattisgarh", 
+    "ac_code": "43", 
+    "ac_name": "Bilaigarh"
+  }, 
+  {
+    "state_code": "S26", 
+    "state_name": "Chhattisgarh", 
+    "ac_code": "30", 
+    "ac_name": "Bilaspur"
+  }, 
+  {
+    "state_code": "S26", 
+    "state_name": "Chhattisgarh", 
+    "ac_code": "29", 
+    "ac_name": "Bilha"
+  }, 
+  {
+    "state_code": "S26", 
+    "state_name": "Chhattisgarh", 
+    "ac_code": "55", 
+    "ac_name": "Bindranawagarh"
+  }, 
+  {
+    "state_code": "S26", 
+    "state_name": "Chhattisgarh", 
+    "ac_code": "36", 
+    "ac_name": "Chandrapur"
+  }, 
+  {
+    "state_code": "S26", 
+    "state_name": "Chhattisgarh", 
+    "ac_code": "87", 
+    "ac_name": "Chitrakot"
+  }, 
+  {
+    "state_code": "S26", 
+    "state_name": "Chhattisgarh", 
+    "ac_code": "88", 
+    "ac_name": "Dantewara"
+  }, 
+  {
+    "state_code": "S26", 
+    "state_name": "Chhattisgarh", 
+    "ac_code": "58", 
+    "ac_name": "Dhamtari"
+  }, 
+  {
+    "state_code": "S26", 
+    "state_name": "Chhattisgarh", 
+    "ac_code": "19", 
+    "ac_name": "Dharamjaigarh"
+  }, 
+  {
+    "state_code": "S26", 
+    "state_name": "Chhattisgarh", 
+    "ac_code": "47", 
+    "ac_name": "Dharsiwa"
+  }, 
+  {
+    "state_code": "S26", 
+    "state_name": "Chhattisgarh", 
+    "ac_code": "60", 
+    "ac_name": "Dondi lohara"
+  }, 
+  {
+    "state_code": "S26", 
+    "state_name": "Chhattisgarh", 
+    "ac_code": "76", 
+    "ac_name": "Dongargaon"
+  }, 
+  {
+    "state_code": "S26", 
+    "state_name": "Chhattisgarh", 
+    "ac_code": "74", 
+    "ac_name": "Dongargarh"
+  }, 
+  {
+    "state_code": "S26", 
+    "state_name": "Chhattisgarh", 
+    "ac_code": "64", 
+    "ac_name": "Durg City"
+  }, 
+  {
+    "state_code": "S26", 
+    "state_name": "Chhattisgarh", 
+    "ac_code": "63", 
+    "ac_name": "Durg Gramin"
+  }, 
+  {
+    "state_code": "S26", 
+    "state_name": "Chhattisgarh", 
+    "ac_code": "61", 
+    "ac_name": "Gunderdehi"
+  }, 
+  {
+    "state_code": "S26", 
+    "state_name": "Chhattisgarh", 
+    "ac_code": "86", 
+    "ac_name": "Jagdalpur"
+  }, 
+  {
+    "state_code": "S26", 
+    "state_name": "Chhattisgarh", 
+    "ac_code": "37", 
+    "ac_name": "Jaijaipur"
+  }, 
+  {
+    "state_code": "S26", 
+    "state_name": "Chhattisgarh", 
+    "ac_code": "34", 
+    "ac_name": "Janjgir-champa"
+  }, 
+  {
+    "state_code": "S26", 
+    "state_name": "Chhattisgarh", 
+    "ac_code": "12", 
+    "ac_name": "Jashpur"
+  }, 
+  {
+    "state_code": "S26", 
+    "state_name": "Chhattisgarh", 
+    "ac_code": "81", 
+    "ac_name": "Kanker"
+  }, 
+  {
+    "state_code": "S26", 
+    "state_name": "Chhattisgarh", 
+    "ac_code": "44", 
+    "ac_name": "Kasdol"
+  }, 
+  {
+    "state_code": "S26", 
+    "state_name": "Chhattisgarh", 
+    "ac_code": "22", 
+    "ac_name": "Katghora"
+  }, 
+  {
+    "state_code": "S26", 
+    "state_name": "Chhattisgarh", 
+    "ac_code": "72", 
+    "ac_name": "Kawardha"
+  }, 
+  {
+    "state_code": "S26", 
+    "state_name": "Chhattisgarh", 
+    "ac_code": "82", 
+    "ac_name": "Keshkal"
+  }, 
+  {
+    "state_code": "S26", 
+    "state_name": "Chhattisgarh", 
+    "ac_code": "73", 
+    "ac_name": "Khairagarh"
+  }, 
+  {
+    "state_code": "S26", 
+    "state_name": "Chhattisgarh", 
+    "ac_code": "41", 
+    "ac_name": "Khallari"
+  }, 
+  {
+    "state_code": "S26", 
+    "state_name": "Chhattisgarh", 
+    "ac_code": "18", 
+    "ac_name": "Kharsia"
+  }, 
+  {
+    "state_code": "S26", 
+    "state_name": "Chhattisgarh", 
+    "ac_code": "77", 
+    "ac_name": "Khujji"
+  }, 
+  {
+    "state_code": "S26", 
+    "state_name": "Chhattisgarh", 
+    "ac_code": "83", 
+    "ac_name": "Kondagaon"
+  }, 
+  {
+    "state_code": "S26", 
+    "state_name": "Chhattisgarh", 
+    "ac_code": "90", 
+    "ac_name": "Konta"
+  }, 
+  {
+    "state_code": "S26", 
+    "state_name": "Chhattisgarh", 
+    "ac_code": "21", 
+    "ac_name": "Korba"
+  }, 
+  {
+    "state_code": "S26", 
+    "state_name": "Chhattisgarh", 
+    "ac_code": "25", 
+    "ac_name": "Kota"
+  }, 
+  {
+    "state_code": "S26", 
+    "state_name": "Chhattisgarh", 
+    "ac_code": "13", 
+    "ac_name": "Kunkuri"
+  }, 
+  {
+    "state_code": "S26", 
+    "state_name": "Chhattisgarh", 
+    "ac_code": "57", 
+    "ac_name": "Kurud"
+  }, 
+  {
+    "state_code": "S26", 
+    "state_name": "Chhattisgarh", 
+    "ac_code": "15", 
+    "ac_name": "Lailunga"
+  }, 
+  {
+    "state_code": "S26", 
+    "state_name": "Chhattisgarh", 
+    "ac_code": "26", 
+    "ac_name": "Lormi"
+  }, 
+  {
+    "state_code": "S26", 
+    "state_name": "Chhattisgarh", 
+    "ac_code": "9", 
+    "ac_name": "Lundra"
+  }, 
+  {
+    "state_code": "S26", 
+    "state_name": "Chhattisgarh", 
+    "ac_code": "42", 
+    "ac_name": "Mahasamund"
+  }, 
+  {
+    "state_code": "S26", 
+    "state_name": "Chhattisgarh", 
+    "ac_code": "2", 
+    "ac_name": "Manendragarh"
+  }, 
+  {
+    "state_code": "S26", 
+    "state_name": "Chhattisgarh", 
+    "ac_code": "24", 
+    "ac_name": "Marwahi"
+  }, 
+  {
+    "state_code": "S26", 
+    "state_name": "Chhattisgarh", 
+    "ac_code": "32", 
+    "ac_name": "Masturi"
+  }, 
+  {
+    "state_code": "S26", 
+    "state_name": "Chhattisgarh", 
+    "ac_code": "78", 
+    "ac_name": "Mohala-manpur"
+  }, 
+  {
+    "state_code": "S26", 
+    "state_name": "Chhattisgarh", 
+    "ac_code": "27", 
+    "ac_name": "Mungeli"
+  }, 
+  {
+    "state_code": "S26", 
+    "state_name": "Chhattisgarh", 
+    "ac_code": "84", 
+    "ac_name": "Narayanpur"
+  }, 
+  {
+    "state_code": "S26", 
+    "state_name": "Chhattisgarh", 
+    "ac_code": "70", 
+    "ac_name": "Navagarh"
+  }, 
+  {
+    "state_code": "S26", 
+    "state_name": "Chhattisgarh", 
+    "ac_code": "23", 
+    "ac_name": "Pali-tanakhar"
+  }, 
+  {
+    "state_code": "S26", 
+    "state_name": "Chhattisgarh", 
+    "ac_code": "38", 
+    "ac_name": "Pamgarh"
+  }, 
+  {
+    "state_code": "S26", 
+    "state_name": "Chhattisgarh", 
+    "ac_code": "71", 
+    "ac_name": "Pandariya"
+  }, 
+  {
+    "state_code": "S26", 
+    "state_name": "Chhattisgarh", 
+    "ac_code": "62", 
+    "ac_name": "Patan"
+  }, 
+  {
+    "state_code": "S26", 
+    "state_name": "Chhattisgarh", 
+    "ac_code": "14", 
+    "ac_name": "Pathalgaon"
+  }, 
+  {
+    "state_code": "S26", 
+    "state_name": "Chhattisgarh", 
+    "ac_code": "6", 
+    "ac_name": "Pratappur"
+  }, 
+  {
+    "state_code": "S26", 
+    "state_name": "Chhattisgarh", 
+    "ac_code": "4", 
+    "ac_name": "Premnagar"
+  }, 
+  {
+    "state_code": "S26", 
+    "state_name": "Chhattisgarh", 
+    "ac_code": "16", 
+    "ac_name": "Raigarh"
+  }, 
+  {
+    "state_code": "S26", 
+    "state_name": "Chhattisgarh", 
+    "ac_code": "48", 
+    "ac_name": "Raipur City Gramin"
+  }, 
+  {
+    "state_code": "S26", 
+    "state_name": "Chhattisgarh", 
+    "ac_code": "50", 
+    "ac_name": "Raipur City North"
+  }, 
+  {
+    "state_code": "S26", 
+    "state_name": "Chhattisgarh", 
+    "ac_code": "51", 
+    "ac_name": "Raipur City South"
+  }, 
+  {
+    "state_code": "S26", 
+    "state_name": "Chhattisgarh", 
+    "ac_code": "49", 
+    "ac_name": "Raipur City West"
+  }, 
+  {
+    "state_code": "S26", 
+    "state_name": "Chhattisgarh", 
+    "ac_code": "54", 
+    "ac_name": "Rajim"
+  }, 
+  {
+    "state_code": "S26", 
+    "state_name": "Chhattisgarh", 
+    "ac_code": "75", 
+    "ac_name": "Rajnandgaon"
+  }, 
+  {
+    "state_code": "S26", 
+    "state_name": "Chhattisgarh", 
+    "ac_code": "7", 
+    "ac_name": "Ramanujganj"
+  }, 
+  {
+    "state_code": "S26", 
+    "state_name": "Chhattisgarh", 
+    "ac_code": "20", 
+    "ac_name": "Rampur"
+  }, 
+  {
+    "state_code": "S26", 
+    "state_name": "Chhattisgarh", 
+    "ac_code": "68", 
+    "ac_name": "Saja"
+  }, 
+  {
+    "state_code": "S26", 
+    "state_name": "Chhattisgarh", 
+    "ac_code": "35", 
+    "ac_name": "Sakti"
+  }, 
+  {
+    "state_code": "S26", 
+    "state_name": "Chhattisgarh", 
+    "ac_code": "8", 
+    "ac_name": "Samri"
+  }, 
+  {
+    "state_code": "S26", 
+    "state_name": "Chhattisgarh", 
+    "ac_code": "59", 
+    "ac_name": "Sanjari balod"
+  }, 
+  {
+    "state_code": "S26", 
+    "state_name": "Chhattisgarh", 
+    "ac_code": "39", 
+    "ac_name": "Saraipali"
+  }, 
+  {
+    "state_code": "S26", 
+    "state_name": "Chhattisgarh", 
+    "ac_code": "17", 
+    "ac_name": "Sarangarh"
+  }, 
+  {
+    "state_code": "S26", 
+    "state_name": "Chhattisgarh", 
+    "ac_code": "56", 
+    "ac_name": "Sihawa"
+  }, 
+  {
+    "state_code": "S26", 
+    "state_name": "Chhattisgarh", 
+    "ac_code": "11", 
+    "ac_name": "Sitapur"
+  }, 
+  {
+    "state_code": "S26", 
+    "state_name": "Chhattisgarh", 
+    "ac_code": "28", 
+    "ac_name": "Takhatpur"
+  }, 
+  {
+    "state_code": "S26", 
+    "state_name": "Chhattisgarh", 
+    "ac_code": "66", 
+    "ac_name": "Vaishali Nagar"
+  }, 
+  {
+    "state_code": "S12", 
+    "state_name": "Madhya Pradesh", 
+    "ac_code": "166", 
+    "ac_name": "AGAR"
+  }, 
+  {
+    "state_code": "S12", 
+    "state_name": "Madhya Pradesh", 
+    "ac_code": "191", 
+    "ac_name": "ALIRAJPUR"
+  }, 
+  {
+    "state_code": "S12", 
+    "state_name": "Madhya Pradesh", 
+    "ac_code": "223", 
+    "ac_name": "ALOTE"
+  }, 
+  {
+    "state_code": "S12", 
+    "state_name": "Madhya Pradesh", 
+    "ac_code": "66", 
+    "ac_name": "AMARPATAN"
+  }, 
+  {
+    "state_code": "S12", 
+    "state_name": "Madhya Pradesh", 
+    "ac_code": "123", 
+    "ac_name": "AMARWARA"
+  }, 
+  {
+    "state_code": "S12", 
+    "state_name": "Madhya Pradesh", 
+    "ac_code": "8", 
+    "ac_name": "AMBAH"
+  }, 
+  {
+    "state_code": "S12", 
+    "state_name": "Madhya Pradesh", 
+    "ac_code": "130", 
+    "ac_name": "AMLA"
+  }, 
+  {
+    "state_code": "S12", 
+    "state_name": "Madhya Pradesh", 
+    "ac_code": "87", 
+    "ac_name": "ANUPPUR"
+  }, 
+  {
+    "state_code": "S12", 
+    "state_name": "Madhya Pradesh", 
+    "ac_code": "32", 
+    "ac_name": "ASHOK NAGAR"
+  }, 
+  {
+    "state_code": "S12", 
+    "state_name": "Madhya Pradesh", 
+    "ac_code": "157", 
+    "ac_name": "ASHTA"
+  }, 
+  {
+    "state_code": "S12", 
+    "state_name": "Madhya Pradesh", 
+    "ac_code": "9", 
+    "ac_name": "ATER"
+  }, 
+  {
+    "state_code": "S12", 
+    "state_name": "Madhya Pradesh", 
+    "ac_code": "218", 
+    "ac_name": "BADNAGAR"
+  }, 
+  {
+    "state_code": "S12", 
+    "state_name": "Madhya Pradesh", 
+    "ac_code": "202", 
+    "ac_name": "BADNAWAR"
+  }, 
+  {
+    "state_code": "S12", 
+    "state_name": "Madhya Pradesh", 
+    "ac_code": "182", 
+    "ac_name": "BADWAHA"
+  }, 
+  {
+    "state_code": "S12", 
+    "state_name": "Madhya Pradesh", 
+    "ac_code": "91", 
+    "ac_name": "BADWARA"
+  }, 
+  {
+    "state_code": "S12", 
+    "state_name": "Madhya Pradesh", 
+    "ac_code": "174", 
+    "ac_name": "BAGLI"
+  }, 
+  {
+    "state_code": "S12", 
+    "state_name": "Madhya Pradesh", 
+    "ac_code": "94", 
+    "ac_name": "BAHORIBAND"
+  }, 
+  {
+    "state_code": "S12", 
+    "state_name": "Madhya Pradesh", 
+    "ac_code": "108", 
+    "ac_name": "BAIHAR"
+  }, 
+  {
+    "state_code": "S12", 
+    "state_name": "Madhya Pradesh", 
+    "ac_code": "111", 
+    "ac_name": "BALAGHAT"
+  }, 
+  {
+    "state_code": "S12", 
+    "state_name": "Madhya Pradesh", 
+    "ac_code": "28", 
+    "ac_name": "BAMORI"
+  }, 
+  {
+    "state_code": "S12", 
+    "state_name": "Madhya Pradesh", 
+    "ac_code": "42", 
+    "ac_name": "BANDA"
+  }, 
+  {
+    "state_code": "S12", 
+    "state_name": "Madhya Pradesh", 
+    "ac_code": "89", 
+    "ac_name": "BANDHAVGARH"
+  }, 
+  {
+    "state_code": "S12", 
+    "state_name": "Madhya Pradesh", 
+    "ac_code": "114", 
+    "ac_name": "BARGHAT"
+  }, 
+  {
+    "state_code": "S12", 
+    "state_name": "Madhya Pradesh", 
+    "ac_code": "96", 
+    "ac_name": "BARGI"
+  }, 
+  {
+    "state_code": "S12", 
+    "state_name": "Madhya Pradesh", 
+    "ac_code": "190", 
+    "ac_name": "BARWANI (S.T.)"
+  }, 
+  {
+    "state_code": "S12", 
+    "state_name": "Madhya Pradesh", 
+    "ac_code": "145", 
+    "ac_name": "BASODA"
+  }, 
+  {
+    "state_code": "S12", 
+    "state_name": "Madhya Pradesh", 
+    "ac_code": "83", 
+    "ac_name": "BEOHARI"
+  }, 
+  {
+    "state_code": "S12", 
+    "state_name": "Madhya Pradesh", 
+    "ac_code": "149", 
+    "ac_name": "BERASIA"
+  }, 
+  {
+    "state_code": "S12", 
+    "state_name": "Madhya Pradesh", 
+    "ac_code": "131", 
+    "ac_name": "BETUL"
+  }, 
+  {
+    "state_code": "S12", 
+    "state_name": "Madhya Pradesh", 
+    "ac_code": "186", 
+    "ac_name": "BHAGWANPURA"
+  }, 
+  {
+    "state_code": "S12", 
+    "state_name": "Madhya Pradesh", 
+    "ac_code": "133", 
+    "ac_name": "BHAINSDEHI"
+  }, 
+  {
+    "state_code": "S12", 
+    "state_name": "Madhya Pradesh", 
+    "ac_code": "21", 
+    "ac_name": "BHANDER"
+  }, 
+  {
+    "state_code": "S12", 
+    "state_name": "Madhya Pradesh", 
+    "ac_code": "181", 
+    "ac_name": "BHIKANGAON"
+  }, 
+  {
+    "state_code": "S12", 
+    "state_name": "Madhya Pradesh", 
+    "ac_code": "10", 
+    "ac_name": "BHIND"
+  }, 
+  {
+    "state_code": "S12", 
+    "state_name": "Madhya Pradesh", 
+    "ac_code": "18", 
+    "ac_name": "BHITARWAR"
+  }, 
+  {
+    "state_code": "S12", 
+    "state_name": "Madhya Pradesh", 
+    "ac_code": "141", 
+    "ac_name": "BHOJPUR"
+  }, 
+  {
+    "state_code": "S12", 
+    "state_name": "Madhya Pradesh", 
+    "ac_code": "152", 
+    "ac_name": "BHOPAL DAKSHINA-PASHCHIM"
+  }, 
+  {
+    "state_code": "S12", 
+    "state_name": "Madhya Pradesh", 
+    "ac_code": "153", 
+    "ac_name": "BHOPAL MADHYA"
+  }, 
+  {
+    "state_code": "S12", 
+    "state_name": "Madhya Pradesh", 
+    "ac_code": "150", 
+    "ac_name": "BHOPAL UTTAR"
+  }, 
+  {
+    "state_code": "S12", 
+    "state_name": "Madhya Pradesh", 
+    "ac_code": "161", 
+    "ac_name": "BIAORA"
+  }, 
+  {
+    "state_code": "S12", 
+    "state_name": "Madhya Pradesh", 
+    "ac_code": "105", 
+    "ac_name": "BICHHIYA"
+  }, 
+  {
+    "state_code": "S12", 
+    "state_name": "Madhya Pradesh", 
+    "ac_code": "52", 
+    "ac_name": "BIJAWAR"
+  }, 
+  {
+    "state_code": "S12", 
+    "state_name": "Madhya Pradesh", 
+    "ac_code": "35", 
+    "ac_name": "BINA"
+  }, 
+  {
+    "state_code": "S12", 
+    "state_name": "Madhya Pradesh", 
+    "ac_code": "156", 
+    "ac_name": "BUDHNI"
+  }, 
+  {
+    "state_code": "S12", 
+    "state_name": "Madhya Pradesh", 
+    "ac_code": "180", 
+    "ac_name": "BURHANPUR"
+  }, 
+  {
+    "state_code": "S12", 
+    "state_name": "Madhya Pradesh", 
+    "ac_code": "30", 
+    "ac_name": "CHACHODA"
+  }, 
+  {
+    "state_code": "S12", 
+    "state_name": "Madhya Pradesh", 
+    "ac_code": "33", 
+    "ac_name": "CHANDERI"
+  }, 
+  {
+    "state_code": "S12", 
+    "state_name": "Madhya Pradesh", 
+    "ac_code": "49", 
+    "ac_name": "CHANDLA"
+  }, 
+  {
+    "state_code": "S12", 
+    "state_name": "Madhya Pradesh", 
+    "ac_code": "51", 
+    "ac_name": "CHHATARPUR"
+  }, 
+  {
+    "state_code": "S12", 
+    "state_name": "Madhya Pradesh", 
+    "ac_code": "126", 
+    "ac_name": "CHHINDWARA"
+  }, 
+  {
+    "state_code": "S12", 
+    "state_name": "Madhya Pradesh", 
+    "ac_code": "61", 
+    "ac_name": "CHITRAKOOT"
+  }, 
+  {
+    "state_code": "S12", 
+    "state_name": "Madhya Pradesh", 
+    "ac_code": "79", 
+    "ac_name": "CHITRANGI"
+  }, 
+  {
+    "state_code": "S12", 
+    "state_name": "Madhya Pradesh", 
+    "ac_code": "124", 
+    "ac_name": "CHOURAI"
+  }, 
+  {
+    "state_code": "S12", 
+    "state_name": "Madhya Pradesh", 
+    "ac_code": "76", 
+    "ac_name": "CHURHAT"
+  }, 
+  {
+    "state_code": "S12", 
+    "state_name": "Madhya Pradesh", 
+    "ac_code": "19", 
+    "ac_name": "DABARA"
+  }, 
+  {
+    "state_code": "S12", 
+    "state_name": "Madhya Pradesh", 
+    "ac_code": "55", 
+    "ac_name": "DAMOH"
+  }, 
+  {
+    "state_code": "S12", 
+    "state_name": "Madhya Pradesh", 
+    "ac_code": "22", 
+    "ac_name": "DATIA"
+  }, 
+  {
+    "state_code": "S12", 
+    "state_name": "Madhya Pradesh", 
+    "ac_code": "38", 
+    "ac_name": "DEORI"
+  }, 
+  {
+    "state_code": "S12", 
+    "state_name": "Madhya Pradesh", 
+    "ac_code": "72", 
+    "ac_name": "DEOTALAB"
+  }, 
+  {
+    "state_code": "S12", 
+    "state_name": "Madhya Pradesh", 
+    "ac_code": "203", 
+    "ac_name": "DEPALPUR"
+  }, 
+  {
+    "state_code": "S12", 
+    "state_name": "Madhya Pradesh", 
+    "ac_code": "81", 
+    "ac_name": "DEVSAR"
+  }, 
+  {
+    "state_code": "S12", 
+    "state_name": "Madhya Pradesh", 
+    "ac_code": "171", 
+    "ac_name": "DEWAS"
+  }, 
+  {
+    "state_code": "S12", 
+    "state_name": "Madhya Pradesh", 
+    "ac_code": "201", 
+    "ac_name": "DHAR"
+  }, 
+  {
+    "state_code": "S12", 
+    "state_name": "Madhya Pradesh", 
+    "ac_code": "200", 
+    "ac_name": "DHARAMPURI"
+  }, 
+  {
+    "state_code": "S12", 
+    "state_name": "Madhya Pradesh", 
+    "ac_code": "82", 
+    "ac_name": "DHOUHANI"
+  }, 
+  {
+    "state_code": "S12", 
+    "state_name": "Madhya Pradesh", 
+    "ac_code": "7", 
+    "ac_name": "DIMANI"
+  }, 
+  {
+    "state_code": "S12", 
+    "state_name": "Madhya Pradesh", 
+    "ac_code": "104", 
+    "ac_name": "DINDORI"
+  }, 
+  {
+    "state_code": "S12", 
+    "state_name": "Madhya Pradesh", 
+    "ac_code": "209", 
+    "ac_name": "DR.AMBEDKAR NAGAR -Mhow"
+  }, 
+  {
+    "state_code": "S12", 
+    "state_name": "Madhya Pradesh", 
+    "ac_code": "121", 
+    "ac_name": "GADARWARA"
+  }, 
+  {
+    "state_code": "S12", 
+    "state_name": "Madhya Pradesh", 
+    "ac_code": "197", 
+    "ac_name": "Gandhwani"
+  }, 
+  {
+    "state_code": "S12", 
+    "state_name": "Madhya Pradesh", 
+    "ac_code": "227", 
+    "ac_name": "GAROTH"
+  }, 
+  {
+    "state_code": "S12", 
+    "state_name": "Madhya Pradesh", 
+    "ac_code": "215", 
+    "ac_name": "GHATIYA"
+  }, 
+  {
+    "state_code": "S12", 
+    "state_name": "Madhya Pradesh", 
+    "ac_code": "132", 
+    "ac_name": "GHODADONGRI"
+  }, 
+  {
+    "state_code": "S12", 
+    "state_name": "Madhya Pradesh", 
+    "ac_code": "13", 
+    "ac_name": "GOHAD"
+  }, 
+  {
+    "state_code": "S12", 
+    "state_name": "Madhya Pradesh", 
+    "ac_code": "118", 
+    "ac_name": "GOTEGAON"
+  }, 
+  {
+    "state_code": "S12", 
+    "state_name": "Madhya Pradesh", 
+    "ac_code": "154", 
+    "ac_name": "GOVINDPURA"
+  }, 
+  {
+    "state_code": "S12", 
+    "state_name": "Madhya Pradesh", 
+    "ac_code": "29", 
+    "ac_name": "GUNA"
+  }, 
+  {
+    "state_code": "S12", 
+    "state_name": "Madhya Pradesh", 
+    "ac_code": "59", 
+    "ac_name": "GUNNOUR"
+  }, 
+  {
+    "state_code": "S12", 
+    "state_name": "Madhya Pradesh", 
+    "ac_code": "75", 
+    "ac_name": "GURH"
+  }, 
+  {
+    "state_code": "S12", 
+    "state_name": "Madhya Pradesh", 
+    "ac_code": "15", 
+    "ac_name": "GWALIOR"
+  }, 
+  {
+    "state_code": "S12", 
+    "state_name": "Madhya Pradesh", 
+    "ac_code": "16", 
+    "ac_name": "GWALIOR EAST"
+  }, 
+  {
+    "state_code": "S12", 
+    "state_name": "Madhya Pradesh", 
+    "ac_code": "14", 
+    "ac_name": "GWALIOR RURAL"
+  }, 
+  {
+    "state_code": "S12", 
+    "state_name": "Madhya Pradesh", 
+    "ac_code": "17", 
+    "ac_name": "GWALIOR SOUTH"
+  }, 
+  {
+    "state_code": "S12", 
+    "state_name": "Madhya Pradesh", 
+    "ac_code": "135", 
+    "ac_name": "HARDA"
+  }, 
+  {
+    "state_code": "S12", 
+    "state_name": "Madhya Pradesh", 
+    "ac_code": "176", 
+    "ac_name": "HARSUD"
+  }, 
+  {
+    "state_code": "S12", 
+    "state_name": "Madhya Pradesh", 
+    "ac_code": "172", 
+    "ac_name": "HATPIPLIYA"
+  }, 
+  {
+    "state_code": "S12", 
+    "state_name": "Madhya Pradesh", 
+    "ac_code": "57", 
+    "ac_name": "HATTA"
+  }, 
+  {
+    "state_code": "S12", 
+    "state_name": "Madhya Pradesh", 
+    "ac_code": "137", 
+    "ac_name": "HOSHANGABAD"
+  }, 
+  {
+    "state_code": "S12", 
+    "state_name": "Madhya Pradesh", 
+    "ac_code": "155", 
+    "ac_name": "HUZUR"
+  }, 
+  {
+    "state_code": "S12", 
+    "state_name": "Madhya Pradesh", 
+    "ac_code": "158", 
+    "ac_name": "ICHHAWAR"
+  }, 
+  {
+    "state_code": "S12", 
+    "state_name": "Madhya Pradesh", 
+    "ac_code": "204", 
+    "ac_name": "INDORE-1"
+  }, 
+  {
+    "state_code": "S12", 
+    "state_name": "Madhya Pradesh", 
+    "ac_code": "205", 
+    "ac_name": "INDORE-2"
+  }, 
+  {
+    "state_code": "S12", 
+    "state_name": "Madhya Pradesh", 
+    "ac_code": "206", 
+    "ac_name": "INDORE-3"
+  }, 
+  {
+    "state_code": "S12", 
+    "state_name": "Madhya Pradesh", 
+    "ac_code": "207", 
+    "ac_name": "Indore-4"
+  }, 
+  {
+    "state_code": "S12", 
+    "state_name": "Madhya Pradesh", 
+    "ac_code": "208", 
+    "ac_name": "INDORE-5"
+  }, 
+  {
+    "state_code": "S12", 
+    "state_name": "Madhya Pradesh", 
+    "ac_code": "99", 
+    "ac_name": "JABALPUR CANTT"
+  }, 
+  {
+    "state_code": "S12", 
+    "state_name": "Madhya Pradesh", 
+    "ac_code": "97", 
+    "ac_name": "JABALPUR EAST"
+  }, 
+  {
+    "state_code": "S12", 
+    "state_name": "Madhya Pradesh", 
+    "ac_code": "98", 
+    "ac_name": "JABALPUR NORTH"
+  }, 
+  {
+    "state_code": "S12", 
+    "state_name": "Madhya Pradesh", 
+    "ac_code": "100", 
+    "ac_name": "JABALPUR WEST"
+  }, 
+  {
+    "state_code": "S12", 
+    "state_name": "Madhya Pradesh", 
+    "ac_code": "56", 
+    "ac_name": "JABERA"
+  }, 
+  {
+    "state_code": "S12", 
+    "state_name": "Madhya Pradesh", 
+    "ac_code": "84", 
+    "ac_name": "JAISINGHNAGAR"
+  }, 
+  {
+    "state_code": "S12", 
+    "state_name": "Madhya Pradesh", 
+    "ac_code": "85", 
+    "ac_name": "JAITPUR"
+  }, 
+  {
+    "state_code": "S12", 
+    "state_name": "Madhya Pradesh", 
+    "ac_code": "222", 
+    "ac_name": "JAORA"
+  }, 
+  {
+    "state_code": "S12", 
+    "state_name": "Madhya Pradesh", 
+    "ac_code": "44", 
+    "ac_name": "JATARA"
+  }, 
+  {
+    "state_code": "S12", 
+    "state_name": "Madhya Pradesh", 
+    "ac_code": "4", 
+    "ac_name": "JAURA"
+  }, 
+  {
+    "state_code": "S12", 
+    "state_name": "Madhya Pradesh", 
+    "ac_code": "230", 
+    "ac_name": "JAWAD"
+  }, 
+  {
+    "state_code": "S12", 
+    "state_name": "Madhya Pradesh", 
+    "ac_code": "193", 
+    "ac_name": "JHABUA"
+  }, 
+  {
+    "state_code": "S12", 
+    "state_name": "Madhya Pradesh", 
+    "ac_code": "192", 
+    "ac_name": "JOBAT"
+  }, 
+  {
+    "state_code": "S12", 
+    "state_name": "Madhya Pradesh", 
+    "ac_code": "122", 
+    "ac_name": "JUNNARDEO"
+  }, 
+  {
+    "state_code": "S12", 
+    "state_name": "Madhya Pradesh", 
+    "ac_code": "169", 
+    "ac_name": "KALAPIPAL"
+  }, 
+  {
+    "state_code": "S12", 
+    "state_name": "Madhya Pradesh", 
+    "ac_code": "23", 
+    "ac_name": "KARERA"
+  }, 
+  {
+    "state_code": "S12", 
+    "state_name": "Madhya Pradesh", 
+    "ac_code": "184", 
+    "ac_name": "KASRAWAD"
+  }, 
+  {
+    "state_code": "S12", 
+    "state_name": "Madhya Pradesh", 
+    "ac_code": "113", 
+    "ac_name": "KATANGI"
+  }, 
+  {
+    "state_code": "S12", 
+    "state_name": "Madhya Pradesh", 
+    "ac_code": "116", 
+    "ac_name": "KEOLARI"
+  }, 
+  {
+    "state_code": "S12", 
+    "state_name": "Madhya Pradesh", 
+    "ac_code": "177", 
+    "ac_name": "KHANDWA"
+  }, 
+  {
+    "state_code": "S12", 
+    "state_name": "Madhya Pradesh", 
+    "ac_code": "47", 
+    "ac_name": "KHARGAPUR"
+  }, 
+  {
+    "state_code": "S12", 
+    "state_name": "Madhya Pradesh", 
+    "ac_code": "185", 
+    "ac_name": "KHARGONE"
+  }, 
+  {
+    "state_code": "S12", 
+    "state_name": "Madhya Pradesh", 
+    "ac_code": "173", 
+    "ac_name": "KHATEGAON"
+  }, 
+  {
+    "state_code": "S12", 
+    "state_name": "Madhya Pradesh", 
+    "ac_code": "163", 
+    "ac_name": "KHILCHIPUR"
+  }, 
+  {
+    "state_code": "S12", 
+    "state_name": "Madhya Pradesh", 
+    "ac_code": "36", 
+    "ac_name": "KHURAI"
+  }, 
+  {
+    "state_code": "S12", 
+    "state_name": "Madhya Pradesh", 
+    "ac_code": "27", 
+    "ac_name": "KOLARAS"
+  }, 
+  {
+    "state_code": "S12", 
+    "state_name": "Madhya Pradesh", 
+    "ac_code": "86", 
+    "ac_name": "KOTAMA"
+  }, 
+  {
+    "state_code": "S12", 
+    "state_name": "Madhya Pradesh", 
+    "ac_code": "198", 
+    "ac_name": "KUKSHI"
+  }, 
+  {
+    "state_code": "S12", 
+    "state_name": "Madhya Pradesh", 
+    "ac_code": "146", 
+    "ac_name": "KURWAI (SC)"
+  }, 
+  {
+    "state_code": "S12", 
+    "state_name": "Madhya Pradesh", 
+    "ac_code": "11", 
+    "ac_name": "LAHAR"
+  }, 
+  {
+    "state_code": "S12", 
+    "state_name": "Madhya Pradesh", 
+    "ac_code": "117", 
+    "ac_name": "LAKHANADON"
+  }, 
+  {
+    "state_code": "S12", 
+    "state_name": "Madhya Pradesh", 
+    "ac_code": "109", 
+    "ac_name": "LANJI"
+  }, 
+  {
+    "state_code": "S12", 
+    "state_name": "Madhya Pradesh", 
+    "ac_code": "48", 
+    "ac_name": "MAHARAJPUR"
+  }, 
+  {
+    "state_code": "S12", 
+    "state_name": "Madhya Pradesh", 
+    "ac_code": "183", 
+    "ac_name": "MAHESHWAR"
+  }, 
+  {
+    "state_code": "S12", 
+    "state_name": "Madhya Pradesh", 
+    "ac_code": "213", 
+    "ac_name": "MAHIDPUR"
+  }, 
+  {
+    "state_code": "S12", 
+    "state_name": "Madhya Pradesh", 
+    "ac_code": "65", 
+    "ac_name": "MAIHAR"
+  }, 
+  {
+    "state_code": "S12", 
+    "state_name": "Madhya Pradesh", 
+    "ac_code": "53", 
+    "ac_name": "MALHARA"
+  }, 
+  {
+    "state_code": "S12", 
+    "state_name": "Madhya Pradesh", 
+    "ac_code": "225", 
+    "ac_name": "MALHARGARH"
+  }, 
+  {
+    "state_code": "S12", 
+    "state_name": "Madhya Pradesh", 
+    "ac_code": "228", 
+    "ac_name": "MANASA"
+  }, 
+  {
+    "state_code": "S12", 
+    "state_name": "Madhya Pradesh", 
+    "ac_code": "199", 
+    "ac_name": "MANAWAR"
+  }, 
+  {
+    "state_code": "S12", 
+    "state_name": "Madhya Pradesh", 
+    "ac_code": "175", 
+    "ac_name": "MANDHATA"
+  }, 
+  {
+    "state_code": "S12", 
+    "state_name": "Madhya Pradesh", 
+    "ac_code": "107", 
+    "ac_name": "MANDLA"
+  }, 
+  {
+    "state_code": "S12", 
+    "state_name": "Madhya Pradesh", 
+    "ac_code": "224", 
+    "ac_name": "MANDSOUR"
+  }, 
+  {
+    "state_code": "S12", 
+    "state_name": "Madhya Pradesh", 
+    "ac_code": "73", 
+    "ac_name": "MANGAWAN"
+  }, 
+  {
+    "state_code": "S12", 
+    "state_name": "Madhya Pradesh", 
+    "ac_code": "90", 
+    "ac_name": "MANPUR"
+  }, 
+  {
+    "state_code": "S12", 
+    "state_name": "Madhya Pradesh", 
+    "ac_code": "71", 
+    "ac_name": "MAUGANJ"
+  }, 
+  {
+    "state_code": "S12", 
+    "state_name": "Madhya Pradesh", 
+    "ac_code": "12", 
+    "ac_name": "MEHGAON"
+  }, 
+  {
+    "state_code": "S12", 
+    "state_name": "Madhya Pradesh", 
+    "ac_code": "6", 
+    "ac_name": "MORENA"
+  }, 
+  {
+    "state_code": "S12", 
+    "state_name": "Madhya Pradesh", 
+    "ac_code": "93", 
+    "ac_name": "MUDWARA"
+  }, 
+  {
+    "state_code": "S12", 
+    "state_name": "Madhya Pradesh", 
+    "ac_code": "129", 
+    "ac_name": "MULTAI"
+  }, 
+  {
+    "state_code": "S12", 
+    "state_name": "Madhya Pradesh", 
+    "ac_code": "34", 
+    "ac_name": "MUNGAOLI"
+  }, 
+  {
+    "state_code": "S12", 
+    "state_name": "Madhya Pradesh", 
+    "ac_code": "212", 
+    "ac_name": "NAGADA - KHACHAROD"
+  }, 
+  {
+    "state_code": "S12", 
+    "state_name": "Madhya Pradesh", 
+    "ac_code": "64", 
+    "ac_name": "NAGOD"
+  }, 
+  {
+    "state_code": "S12", 
+    "state_name": "Madhya Pradesh", 
+    "ac_code": "151", 
+    "ac_name": "NARELA"
+  }, 
+  {
+    "state_code": "S12", 
+    "state_name": "Madhya Pradesh", 
+    "ac_code": "160", 
+    "ac_name": "NARSINGHGARH"
+  }, 
+  {
+    "state_code": "S12", 
+    "state_name": "Madhya Pradesh", 
+    "ac_code": "119", 
+    "ac_name": "NARSINGPUR"
+  }, 
+  {
+    "state_code": "S12", 
+    "state_name": "Madhya Pradesh", 
+    "ac_code": "40", 
+    "ac_name": "NARYAWALI"
+  }, 
+  {
+    "state_code": "S12", 
+    "state_name": "Madhya Pradesh", 
+    "ac_code": "229", 
+    "ac_name": "NEEMUCH"
+  }, 
+  {
+    "state_code": "S12", 
+    "state_name": "Madhya Pradesh", 
+    "ac_code": "179", 
+    "ac_name": "NEPANAGAR"
+  }, 
+  {
+    "state_code": "S12", 
+    "state_name": "Madhya Pradesh", 
+    "ac_code": "46", 
+    "ac_name": "NIWARI"
+  }, 
+  {
+    "state_code": "S12", 
+    "state_name": "Madhya Pradesh", 
+    "ac_code": "106", 
+    "ac_name": "NIWAS"
+  }, 
+  {
+    "state_code": "S12", 
+    "state_name": "Madhya Pradesh", 
+    "ac_code": "101", 
+    "ac_name": "PANAGAR"
+  }, 
+  {
+    "state_code": "S12", 
+    "state_name": "Madhya Pradesh", 
+    "ac_code": "178", 
+    "ac_name": "PANDHANA"
+  }, 
+  {
+    "state_code": "S12", 
+    "state_name": "Madhya Pradesh", 
+    "ac_code": "128", 
+    "ac_name": "PANDHURNA"
+  }, 
+  {
+    "state_code": "S12", 
+    "state_name": "Madhya Pradesh", 
+    "ac_code": "60", 
+    "ac_name": "PANNA"
+  }, 
+  {
+    "state_code": "S12", 
+    "state_name": "Madhya Pradesh", 
+    "ac_code": "189", 
+    "ac_name": "PANSEMAL (S.T.)"
+  }, 
+  {
+    "state_code": "S12", 
+    "state_name": "Madhya Pradesh", 
+    "ac_code": "127", 
+    "ac_name": "PARASIYA"
+  }, 
+  {
+    "state_code": "S12", 
+    "state_name": "Madhya Pradesh", 
+    "ac_code": "110", 
+    "ac_name": "PARASWADA"
+  }, 
+  {
+    "state_code": "S12", 
+    "state_name": "Madhya Pradesh", 
+    "ac_code": "95", 
+    "ac_name": "PATAN"
+  }, 
+  {
+    "state_code": "S12", 
+    "state_name": "Madhya Pradesh", 
+    "ac_code": "54", 
+    "ac_name": "PATHARIYA"
+  }, 
+  {
+    "state_code": "S12", 
+    "state_name": "Madhya Pradesh", 
+    "ac_code": "58", 
+    "ac_name": "PAWAI"
+  }, 
+  {
+    "state_code": "S12", 
+    "state_name": "Madhya Pradesh", 
+    "ac_code": "195", 
+    "ac_name": "PETLAWAD"
+  }, 
+  {
+    "state_code": "S12", 
+    "state_name": "Madhya Pradesh", 
+    "ac_code": "26", 
+    "ac_name": "PICHHORE"
+  }, 
+  {
+    "state_code": "S12", 
+    "state_name": "Madhya Pradesh", 
+    "ac_code": "139", 
+    "ac_name": "PIPARIYA"
+  }, 
+  {
+    "state_code": "S12", 
+    "state_name": "Madhya Pradesh", 
+    "ac_code": "24", 
+    "ac_name": "POHARI"
+  }, 
+  {
+    "state_code": "S12", 
+    "state_name": "Madhya Pradesh", 
+    "ac_code": "45", 
+    "ac_name": "PRITHVIPUR"
+  }, 
+  {
+    "state_code": "S12", 
+    "state_name": "Madhya Pradesh", 
+    "ac_code": "88", 
+    "ac_name": "PUSPRAJGARH"
+  }, 
+  {
+    "state_code": "S12", 
+    "state_name": "Madhya Pradesh", 
+    "ac_code": "31", 
+    "ac_name": "RAGHOGARH"
+  }, 
+  {
+    "state_code": "S12", 
+    "state_name": "Madhya Pradesh", 
+    "ac_code": "62", 
+    "ac_name": "RAIGAON"
+  }, 
+  {
+    "state_code": "S12", 
+    "state_name": "Madhya Pradesh", 
+    "ac_code": "162", 
+    "ac_name": "RAJGARH"
+  }, 
+  {
+    "state_code": "S12", 
+    "state_name": "Madhya Pradesh", 
+    "ac_code": "50", 
+    "ac_name": "RAJNAGAR"
+  }, 
+  {
+    "state_code": "S12", 
+    "state_name": "Madhya Pradesh", 
+    "ac_code": "188", 
+    "ac_name": "RAJPUR (S.T.)"
+  }, 
+  {
+    "state_code": "S12", 
+    "state_name": "Madhya Pradesh", 
+    "ac_code": "67", 
+    "ac_name": "RAMPUR BAGHELAN"
+  }, 
+  {
+    "state_code": "S12", 
+    "state_name": "Madhya Pradesh", 
+    "ac_code": "220", 
+    "ac_name": "RATLAM CITY"
+  }, 
+  {
+    "state_code": "S12", 
+    "state_name": "Madhya Pradesh", 
+    "ac_code": "219", 
+    "ac_name": "RATLAM RURAL"
+  }, 
+  {
+    "state_code": "S12", 
+    "state_name": "Madhya Pradesh", 
+    "ac_code": "210", 
+    "ac_name": "RAU"
+  }, 
+  {
+    "state_code": "S12", 
+    "state_name": "Madhya Pradesh", 
+    "ac_code": "39", 
+    "ac_name": "REHLI"
+  }, 
+  {
+    "state_code": "S12", 
+    "state_name": "Madhya Pradesh", 
+    "ac_code": "74", 
+    "ac_name": "REWA"
+  }, 
+  {
+    "state_code": "S12", 
+    "state_name": "Madhya Pradesh", 
+    "ac_code": "3", 
+    "ac_name": "SABALAGADH"
+  }, 
+  {
+    "state_code": "S12", 
+    "state_name": "Madhya Pradesh", 
+    "ac_code": "41", 
+    "ac_name": "SAGAR"
+  }, 
+  {
+    "state_code": "S12", 
+    "state_name": "Madhya Pradesh", 
+    "ac_code": "221", 
+    "ac_name": "SAILANA"
+  }, 
+  {
+    "state_code": "S12", 
+    "state_name": "Madhya Pradesh", 
+    "ac_code": "142", 
+    "ac_name": "SANCHI (SC)"
+  }, 
+  {
+    "state_code": "S12", 
+    "state_name": "Madhya Pradesh", 
+    "ac_code": "211", 
+    "ac_name": "SANWER"
+  }, 
+  {
+    "state_code": "S12", 
+    "state_name": "Madhya Pradesh", 
+    "ac_code": "164", 
+    "ac_name": "SARANGPUR"
+  }, 
+  {
+    "state_code": "S12", 
+    "state_name": "Madhya Pradesh", 
+    "ac_code": "196", 
+    "ac_name": "SARDARPUR"
+  }, 
+  {
+    "state_code": "S12", 
+    "state_name": "Madhya Pradesh", 
+    "ac_code": "63", 
+    "ac_name": "SATNA"
+  }, 
+  {
+    "state_code": "S12", 
+    "state_name": "Madhya Pradesh", 
+    "ac_code": "125", 
+    "ac_name": "SAUSAR"
+  }, 
+  {
+    "state_code": "S12", 
+    "state_name": "Madhya Pradesh", 
+    "ac_code": "159", 
+    "ac_name": "SEHORE"
+  }, 
+  {
+    "state_code": "S12", 
+    "state_name": "Madhya Pradesh", 
+    "ac_code": "69", 
+    "ac_name": "SEMARIYA"
+  }, 
+  {
+    "state_code": "S12", 
+    "state_name": "Madhya Pradesh", 
+    "ac_code": "187", 
+    "ac_name": "SENDHWA (S.T.)"
+  }, 
+  {
+    "state_code": "S12", 
+    "state_name": "Madhya Pradesh", 
+    "ac_code": "115", 
+    "ac_name": "SEONI"
+  }, 
+  {
+    "state_code": "S12", 
+    "state_name": "Madhya Pradesh", 
+    "ac_code": "136", 
+    "ac_name": "SEONI MALWA"
+  }, 
+  {
+    "state_code": "S12", 
+    "state_name": "Madhya Pradesh", 
+    "ac_code": "20", 
+    "ac_name": "SEWDA"
+  }, 
+  {
+    "state_code": "S12", 
+    "state_name": "Madhya Pradesh", 
+    "ac_code": "103", 
+    "ac_name": "SHAHPURA"
+  }, 
+  {
+    "state_code": "S12", 
+    "state_name": "Madhya Pradesh", 
+    "ac_code": "167", 
+    "ac_name": "SHAJAPUR"
+  }, 
+  {
+    "state_code": "S12", 
+    "state_name": "Madhya Pradesh", 
+    "ac_code": "148", 
+    "ac_name": "SHAMSHABAD"
+  }, 
+  {
+    "state_code": "S12", 
+    "state_name": "Madhya Pradesh", 
+    "ac_code": "1", 
+    "ac_name": "SHEOPUR"
+  }, 
+  {
+    "state_code": "S12", 
+    "state_name": "Madhya Pradesh", 
+    "ac_code": "25", 
+    "ac_name": "SHIVPURI"
+  }, 
+  {
+    "state_code": "S12", 
+    "state_name": "Madhya Pradesh", 
+    "ac_code": "168", 
+    "ac_name": "SHUJALPUR"
+  }, 
+  {
+    "state_code": "S12", 
+    "state_name": "Madhya Pradesh", 
+    "ac_code": "77", 
+    "ac_name": "SIDHI"
+  }, 
+  {
+    "state_code": "S12", 
+    "state_name": "Madhya Pradesh", 
+    "ac_code": "78", 
+    "ac_name": "SIHAWAL"
+  }, 
+  {
+    "state_code": "S12", 
+    "state_name": "Madhya Pradesh", 
+    "ac_code": "102", 
+    "ac_name": "SIHORA"
+  }, 
+  {
+    "state_code": "S12", 
+    "state_name": "Madhya Pradesh", 
+    "ac_code": "143", 
+    "ac_name": "SILWANI"
+  }, 
+  {
+    "state_code": "S12", 
+    "state_name": "Madhya Pradesh", 
+    "ac_code": "80", 
+    "ac_name": "SINGAROULI"
+  }, 
+  {
+    "state_code": "S12", 
+    "state_name": "Madhya Pradesh", 
+    "ac_code": "68", 
+    "ac_name": "SIRMOUR"
+  }, 
+  {
+    "state_code": "S12", 
+    "state_name": "Madhya Pradesh", 
+    "ac_code": "147", 
+    "ac_name": "SIRONJ"
+  }, 
+  {
+    "state_code": "S12", 
+    "state_name": "Madhya Pradesh", 
+    "ac_code": "138", 
+    "ac_name": "SOHAGPUR"
+  }, 
+  {
+    "state_code": "S12", 
+    "state_name": "Madhya Pradesh", 
+    "ac_code": "170", 
+    "ac_name": "SONKATCH"
+  }, 
+  {
+    "state_code": "S12", 
+    "state_name": "Madhya Pradesh", 
+    "ac_code": "5", 
+    "ac_name": "SUMAOLI"
+  }, 
+  {
+    "state_code": "S12", 
+    "state_name": "Madhya Pradesh", 
+    "ac_code": "37", 
+    "ac_name": "SURKHI"
+  }, 
+  {
+    "state_code": "S12", 
+    "state_name": "Madhya Pradesh", 
+    "ac_code": "165", 
+    "ac_name": "SUSNER"
+  }, 
+  {
+    "state_code": "S12", 
+    "state_name": "Madhya Pradesh", 
+    "ac_code": "226", 
+    "ac_name": "SUWASRA"
+  }, 
+  {
+    "state_code": "S12", 
+    "state_name": "Madhya Pradesh", 
+    "ac_code": "214", 
+    "ac_name": "TARANA"
+  }, 
+  {
+    "state_code": "S12", 
+    "state_name": "Madhya Pradesh", 
+    "ac_code": "120", 
+    "ac_name": "TENDUKHEDA"
+  }, 
+  {
+    "state_code": "S12", 
+    "state_name": "Madhya Pradesh", 
+    "ac_code": "70", 
+    "ac_name": "TEONTHAR"
+  }, 
+  {
+    "state_code": "S12", 
+    "state_name": "Madhya Pradesh", 
+    "ac_code": "194", 
+    "ac_name": "THANDLA"
+  }, 
+  {
+    "state_code": "S12", 
+    "state_name": "Madhya Pradesh", 
+    "ac_code": "43", 
+    "ac_name": "TIKAMGARH"
+  }, 
+  {
+    "state_code": "S12", 
+    "state_name": "Madhya Pradesh", 
+    "ac_code": "134", 
+    "ac_name": "TIMARNI"
+  }, 
+  {
+    "state_code": "S12", 
+    "state_name": "Madhya Pradesh", 
+    "ac_code": "140", 
+    "ac_name": "UDAIPURA"
+  }, 
+  {
+    "state_code": "S12", 
+    "state_name": "Madhya Pradesh", 
+    "ac_code": "216", 
+    "ac_name": "UJJAIN NORTH"
+  }, 
+  {
+    "state_code": "S12", 
+    "state_name": "Madhya Pradesh", 
+    "ac_code": "217", 
+    "ac_name": "UJJAIN SOUTH"
+  }, 
+  {
+    "state_code": "S12", 
+    "state_name": "Madhya Pradesh", 
+    "ac_code": "144", 
+    "ac_name": "VIDISHA"
+  }, 
+  {
+    "state_code": "S12", 
+    "state_name": "Madhya Pradesh", 
+    "ac_code": "2", 
+    "ac_name": "VIJAYPUR"
+  }, 
+  {
+    "state_code": "S12", 
+    "state_name": "Madhya Pradesh", 
+    "ac_code": "92", 
+    "ac_name": "VIJAYRAGHAVGARH"
+  }, 
+  {
+    "state_code": "S12", 
+    "state_name": "Madhya Pradesh", 
+    "ac_code": "112", 
+    "ac_name": "WARASEONI"
+  }, 
+  {
+    "state_code": "S16", 
+    "state_name": "Mizoram", 
+    "ac_code": "10", 
+    "ac_name": "Aizawl  North - i"
+  }, 
+  {
+    "state_code": "S16", 
+    "state_name": "Mizoram", 
+    "ac_code": "13", 
+    "ac_name": "Aizawl East - i"
+  }, 
+  {
+    "state_code": "S16", 
+    "state_name": "Mizoram", 
+    "ac_code": "14", 
+    "ac_name": "Aizawl East ii"
+  }, 
+  {
+    "state_code": "S16", 
+    "state_name": "Mizoram", 
+    "ac_code": "11", 
+    "ac_name": "Aizawl North - ii"
+  }, 
+  {
+    "state_code": "S16", 
+    "state_name": "Mizoram", 
+    "ac_code": "12", 
+    "ac_name": "Aizawl North-iii"
+  }, 
+  {
+    "state_code": "S16", 
+    "state_name": "Mizoram", 
+    "ac_code": "18", 
+    "ac_name": "Aizawl South i"
+  }, 
+  {
+    "state_code": "S16", 
+    "state_name": "Mizoram", 
+    "ac_code": "19", 
+    "ac_name": "Aizawl South ii"
+  }, 
+  {
+    "state_code": "S16", 
+    "state_name": "Mizoram", 
+    "ac_code": "20", 
+    "ac_name": "Aizawl South-iii"
+  }, 
+  {
+    "state_code": "S16", 
+    "state_name": "Mizoram", 
+    "ac_code": "15", 
+    "ac_name": "Aizawl West i"
+  }, 
+  {
+    "state_code": "S16", 
+    "state_name": "Mizoram", 
+    "ac_code": "16", 
+    "ac_name": "Aizawl West ii"
+  }, 
+  {
+    "state_code": "S16", 
+    "state_name": "Mizoram", 
+    "ac_code": "17", 
+    "ac_name": "Aizawl West iii"
+  }, 
+  {
+    "state_code": "S16", 
+    "state_name": "Mizoram", 
+    "ac_code": "8", 
+    "ac_name": "Chalfilh"
+  }, 
+  {
+    "state_code": "S16", 
+    "state_name": "Mizoram", 
+    "ac_code": "23", 
+    "ac_name": "Champhai North"
+  }, 
+  {
+    "state_code": "S16", 
+    "state_name": "Mizoram", 
+    "ac_code": "24", 
+    "ac_name": "Champhai South"
+  }, 
+  {
+    "state_code": "S16", 
+    "state_name": "Mizoram", 
+    "ac_code": "2", 
+    "ac_name": "Dampa"
+  }, 
+  {
+    "state_code": "S16", 
+    "state_name": "Mizoram", 
+    "ac_code": "25", 
+    "ac_name": "East tuipui"
+  }, 
+  {
+    "state_code": "S16", 
+    "state_name": "Mizoram", 
+    "ac_code": "1", 
+    "ac_name": "Hachhek"
+  }, 
+  {
+    "state_code": "S16", 
+    "state_name": "Mizoram", 
+    "ac_code": "28", 
+    "ac_name": "Hrangturzo"
+  }, 
+  {
+    "state_code": "S16", 
+    "state_name": "Mizoram", 
+    "ac_code": "5", 
+    "ac_name": "Kolasib"
+  }, 
+  {
+    "state_code": "S16", 
+    "state_name": "Mizoram", 
+    "ac_code": "38", 
+    "ac_name": "Lawngtlai East"
+  }, 
+  {
+    "state_code": "S16", 
+    "state_name": "Mizoram", 
+    "ac_code": "37", 
+    "ac_name": "Lawngtlai West"
+  }, 
+  {
+    "state_code": "S16", 
+    "state_name": "Mizoram", 
+    "ac_code": "21", 
+    "ac_name": "Lengteng"
+  }, 
+  {
+    "state_code": "S16", 
+    "state_name": "Mizoram", 
+    "ac_code": "31", 
+    "ac_name": "Lunglei East"
+  }, 
+  {
+    "state_code": "S16", 
+    "state_name": "Mizoram", 
+    "ac_code": "30", 
+    "ac_name": "Lunglei North"
+  }, 
+  {
+    "state_code": "S16", 
+    "state_name": "Mizoram", 
+    "ac_code": "33", 
+    "ac_name": "Lunglei South"
+  }, 
+  {
+    "state_code": "S16", 
+    "state_name": "Mizoram", 
+    "ac_code": "32", 
+    "ac_name": "Lunglei West"
+  }, 
+  {
+    "state_code": "S16", 
+    "state_name": "Mizoram", 
+    "ac_code": "3", 
+    "ac_name": "Mamit"
+  }, 
+  {
+    "state_code": "S16", 
+    "state_name": "Mizoram", 
+    "ac_code": "40", 
+    "ac_name": "Palak"
+  }, 
+  {
+    "state_code": "S16", 
+    "state_name": "Mizoram", 
+    "ac_code": "26", 
+    "ac_name": "Serchhip"
+  }, 
+  {
+    "state_code": "S16", 
+    "state_name": "Mizoram", 
+    "ac_code": "6", 
+    "ac_name": "Serlui"
+  }, 
+  {
+    "state_code": "S16", 
+    "state_name": "Mizoram", 
+    "ac_code": "39", 
+    "ac_name": "Siaha"
+  }, 
+  {
+    "state_code": "S16", 
+    "state_name": "Mizoram", 
+    "ac_code": "29", 
+    "ac_name": "South tuipui"
+  }, 
+  {
+    "state_code": "S16", 
+    "state_name": "Mizoram", 
+    "ac_code": "9", 
+    "ac_name": "Tawi"
+  }, 
+  {
+    "state_code": "S16", 
+    "state_name": "Mizoram", 
+    "ac_code": "34", 
+    "ac_name": "Thorang"
+  }, 
+  {
+    "state_code": "S16", 
+    "state_name": "Mizoram", 
+    "ac_code": "22", 
+    "ac_name": "Tuichang"
+  }, 
+  {
+    "state_code": "S16", 
+    "state_name": "Mizoram", 
+    "ac_code": "36", 
+    "ac_name": "Tuichawng"
+  }, 
+  {
+    "state_code": "S16", 
+    "state_name": "Mizoram", 
+    "ac_code": "27", 
+    "ac_name": "Tuikum"
+  }, 
+  {
+    "state_code": "S16", 
+    "state_name": "Mizoram", 
+    "ac_code": "4", 
+    "ac_name": "Tuirial"
+  }, 
+  {
+    "state_code": "S16", 
+    "state_name": "Mizoram", 
+    "ac_code": "7", 
+    "ac_name": "Tuivawl"
+  }, 
+  {
+    "state_code": "S16", 
+    "state_name": "Mizoram", 
+    "ac_code": "35", 
+    "ac_name": "West tuipui"
+  }, 
+  {
+    "state_code": "S20", 
+    "state_name": "Rajasthan", 
+    "ac_code": "53", 
+    "ac_name": "Adarsh Nagar"
+  }, 
+  {
+    "state_code": "S20", 
+    "state_name": "Rajasthan", 
+    "ac_code": "141", 
+    "ac_name": "Ahore"
+  }, 
+  {
+    "state_code": "S20", 
+    "state_name": "Rajasthan", 
+    "ac_code": "100", 
+    "ac_name": "Ajmer North"
+  }, 
+  {
+    "state_code": "S20", 
+    "state_name": "Rajasthan", 
+    "ac_code": "101", 
+    "ac_name": "Ajmer South"
+  }, 
+  {
+    "state_code": "S20", 
+    "state_name": "Rajasthan", 
+    "ac_code": "65", 
+    "ac_name": "Alwar Rural"
+  }, 
+  {
+    "state_code": "S20", 
+    "state_name": "Rajasthan", 
+    "ac_code": "66", 
+    "ac_name": "Alwar Urban"
+  }, 
+  {
+    "state_code": "S20", 
+    "state_name": "Rajasthan", 
+    "ac_code": "47", 
+    "ac_name": "Amber"
+  }, 
+  {
+    "state_code": "S20", 
+    "state_name": "Rajasthan", 
+    "ac_code": "193", 
+    "ac_name": "Anta"
+  }, 
+  {
+    "state_code": "S20", 
+    "state_name": "Rajasthan", 
+    "ac_code": "6", 
+    "ac_name": "Anupgarh"
+  }, 
+  {
+    "state_code": "S20", 
+    "state_name": "Rajasthan", 
+    "ac_code": "177", 
+    "ac_name": "Asind"
+  }, 
+  {
+    "state_code": "S20", 
+    "state_name": "Rajasthan", 
+    "ac_code": "159", 
+    "ac_name": "Aspur"
+  }, 
+  {
+    "state_code": "S20", 
+    "state_name": "Rajasthan", 
+    "ac_code": "165", 
+    "ac_name": "Bagidora"
+  }, 
+  {
+    "state_code": "S20", 
+    "state_name": "Rajasthan", 
+    "ac_code": "56", 
+    "ac_name": "Bagru"
+  }, 
+  {
+    "state_code": "S20", 
+    "state_name": "Rajasthan", 
+    "ac_code": "120", 
+    "ac_name": "Bali"
+  }, 
+  {
+    "state_code": "S20", 
+    "state_name": "Rajasthan", 
+    "ac_code": "91", 
+    "ac_name": "Bamanwas"
+  }, 
+  {
+    "state_code": "S20", 
+    "state_name": "Rajasthan", 
+    "ac_code": "85", 
+    "ac_name": "Bandikui"
+  }, 
+  {
+    "state_code": "S20", 
+    "state_name": "Rajasthan", 
+    "ac_code": "63", 
+    "ac_name": "Bansur"
+  }, 
+  {
+    "state_code": "S20", 
+    "state_name": "Rajasthan", 
+    "ac_code": "164", 
+    "ac_name": "Banswara"
+  }, 
+  {
+    "state_code": "S20", 
+    "state_name": "Rajasthan", 
+    "ac_code": "195", 
+    "ac_name": "Baran-atru"
+  }, 
+  {
+    "state_code": "S20", 
+    "state_name": "Rajasthan", 
+    "ac_code": "78", 
+    "ac_name": "Bari"
+  }, 
+  {
+    "state_code": "S20", 
+    "state_name": "Rajasthan", 
+    "ac_code": "171", 
+    "ac_name": "Bari sadri"
+  }, 
+  {
+    "state_code": "S20", 
+    "state_name": "Rajasthan", 
+    "ac_code": "135", 
+    "ac_name": "Barmer"
+  }, 
+  {
+    "state_code": "S20", 
+    "state_name": "Rajasthan", 
+    "ac_code": "77", 
+    "ac_name": "Baseri"
+  }, 
+  {
+    "state_code": "S20", 
+    "state_name": "Rajasthan", 
+    "ac_code": "57", 
+    "ac_name": "Bassi"
+  }, 
+  {
+    "state_code": "S20", 
+    "state_name": "Rajasthan", 
+    "ac_code": "76", 
+    "ac_name": "Bayana"
+  }, 
+  {
+    "state_code": "S20", 
+    "state_name": "Rajasthan", 
+    "ac_code": "136", 
+    "ac_name": "Baytu"
+  }, 
+  {
+    "state_code": "S20", 
+    "state_name": "Rajasthan", 
+    "ac_code": "103", 
+    "ac_name": "Beawar"
+  }, 
+  {
+    "state_code": "S20", 
+    "state_name": "Rajasthan", 
+    "ac_code": "168", 
+    "ac_name": "Begun"
+  }, 
+  {
+    "state_code": "S20", 
+    "state_name": "Rajasthan", 
+    "ac_code": "62", 
+    "ac_name": "Behror"
+  }, 
+  {
+    "state_code": "S20", 
+    "state_name": "Rajasthan", 
+    "ac_code": "11", 
+    "ac_name": "Bhadra"
+  }, 
+  {
+    "state_code": "S20", 
+    "state_name": "Rajasthan", 
+    "ac_code": "73", 
+    "ac_name": "Bharatpur"
+  }, 
+  {
+    "state_code": "S20", 
+    "state_name": "Rajasthan", 
+    "ac_code": "180", 
+    "ac_name": "Bhilwara"
+  }, 
+  {
+    "state_code": "S20", 
+    "state_name": "Rajasthan", 
+    "ac_code": "173", 
+    "ac_name": "Bhim"
+  }, 
+  {
+    "state_code": "S20", 
+    "state_name": "Rajasthan", 
+    "ac_code": "143", 
+    "ac_name": "Bhinmal"
+  }, 
+  {
+    "state_code": "S20", 
+    "state_name": "Rajasthan", 
+    "ac_code": "126", 
+    "ac_name": "Bhopalgarh"
+  }, 
+  {
+    "state_code": "S20", 
+    "state_name": "Rajasthan", 
+    "ac_code": "14", 
+    "ac_name": "Bikaner East"
+  }, 
+  {
+    "state_code": "S20", 
+    "state_name": "Rajasthan", 
+    "ac_code": "13", 
+    "ac_name": "Bikaner West"
+  }, 
+  {
+    "state_code": "S20", 
+    "state_name": "Rajasthan", 
+    "ac_code": "131", 
+    "ac_name": "Bilara"
+  }, 
+  {
+    "state_code": "S20", 
+    "state_name": "Rajasthan", 
+    "ac_code": "186", 
+    "ac_name": "Bundi"
+  }, 
+  {
+    "state_code": "S20", 
+    "state_name": "Rajasthan", 
+    "ac_code": "58", 
+    "ac_name": "Chaksu"
+  }, 
+  {
+    "state_code": "S20", 
+    "state_name": "Rajasthan", 
+    "ac_code": "196", 
+    "ac_name": "Chhabra"
+  }, 
+  {
+    "state_code": "S20", 
+    "state_name": "Rajasthan", 
+    "ac_code": "169", 
+    "ac_name": "Chittorgarh"
+  }, 
+  {
+    "state_code": "S20", 
+    "state_name": "Rajasthan", 
+    "ac_code": "140", 
+    "ac_name": "Chohtan"
+  }, 
+  {
+    "state_code": "S20", 
+    "state_name": "Rajasthan", 
+    "ac_code": "43", 
+    "ac_name": "Chomu"
+  }, 
+  {
+    "state_code": "S20", 
+    "state_name": "Rajasthan", 
+    "ac_code": "161", 
+    "ac_name": "Chorasi"
+  }, 
+  {
+    "state_code": "S20", 
+    "state_name": "Rajasthan", 
+    "ac_code": "22", 
+    "ac_name": "Churu"
+  }, 
+  {
+    "state_code": "S20", 
+    "state_name": "Rajasthan", 
+    "ac_code": "51", 
+    "ac_name": "Civil lines"
+  }, 
+  {
+    "state_code": "S20", 
+    "state_name": "Rajasthan", 
+    "ac_code": "197", 
+    "ac_name": "Dag"
+  }, 
+  {
+    "state_code": "S20", 
+    "state_name": "Rajasthan", 
+    "ac_code": "36", 
+    "ac_name": "DANTARAMGARH"
+  }, 
+  {
+    "state_code": "S20", 
+    "state_name": "Rajasthan", 
+    "ac_code": "88", 
+    "ac_name": "Dausa"
+  }, 
+  {
+    "state_code": "S20", 
+    "state_name": "Rajasthan", 
+    "ac_code": "107", 
+    "ac_name": "Deedwana"
+  }, 
+  {
+    "state_code": "S20", 
+    "state_name": "Rajasthan", 
+    "ac_code": "72", 
+    "ac_name": "Deeg-kumher"
+  }, 
+  {
+    "state_code": "S20", 
+    "state_name": "Rajasthan", 
+    "ac_code": "112", 
+    "ac_name": "Degana"
+  }, 
+  {
+    "state_code": "S20", 
+    "state_name": "Rajasthan", 
+    "ac_code": "97", 
+    "ac_name": "Deoli - uniara"
+  }, 
+  {
+    "state_code": "S20", 
+    "state_name": "Rajasthan", 
+    "ac_code": "157", 
+    "ac_name": "Dhariyawad"
+  }, 
+  {
+    "state_code": "S20", 
+    "state_name": "Rajasthan", 
+    "ac_code": "34", 
+    "ac_name": "DHOD"
+  }, 
+  {
+    "state_code": "S20", 
+    "state_name": "Rajasthan", 
+    "ac_code": "79", 
+    "ac_name": "Dholpur"
+  }, 
+  {
+    "state_code": "S20", 
+    "state_name": "Rajasthan", 
+    "ac_code": "45", 
+    "ac_name": "Dudu"
+  }, 
+  {
+    "state_code": "S20", 
+    "state_name": "Rajasthan", 
+    "ac_code": "158", 
+    "ac_name": "Dungarpur"
+  }, 
+  {
+    "state_code": "S20", 
+    "state_name": "Rajasthan", 
+    "ac_code": "32", 
+    "ac_name": "Fatehpur"
+  }, 
+  {
+    "state_code": "S20", 
+    "state_name": "Rajasthan", 
+    "ac_code": "2", 
+    "ac_name": "Ganganagar"
+  }, 
+  {
+    "state_code": "S20", 
+    "state_name": "Rajasthan", 
+    "ac_code": "90", 
+    "ac_name": "Gangapur"
+  }, 
+  {
+    "state_code": "S20", 
+    "state_name": "Rajasthan", 
+    "ac_code": "163", 
+    "ac_name": "Garhi"
+  }, 
+  {
+    "state_code": "S20", 
+    "state_name": "Rajasthan", 
+    "ac_code": "162", 
+    "ac_name": "Ghatol"
+  }, 
+  {
+    "state_code": "S20", 
+    "state_name": "Rajasthan", 
+    "ac_code": "149", 
+    "ac_name": "Gogunda"
+  }, 
+  {
+    "state_code": "S20", 
+    "state_name": "Rajasthan", 
+    "ac_code": "139", 
+    "ac_name": "Gudhamalani"
+  }, 
+  {
+    "state_code": "S20", 
+    "state_name": "Rajasthan", 
+    "ac_code": "8", 
+    "ac_name": "Hanumangarh"
+  }, 
+  {
+    "state_code": "S20", 
+    "state_name": "Rajasthan", 
+    "ac_code": "49", 
+    "ac_name": "Hawa mahal"
+  }, 
+  {
+    "state_code": "S20", 
+    "state_name": "Rajasthan", 
+    "ac_code": "82", 
+    "ac_name": "Hindaun"
+  }, 
+  {
+    "state_code": "S20", 
+    "state_name": "Rajasthan", 
+    "ac_code": "184", 
+    "ac_name": "Hindoli"
+  }, 
+  {
+    "state_code": "S20", 
+    "state_name": "Rajasthan", 
+    "ac_code": "182", 
+    "ac_name": "Jahazpur"
+  }, 
+  {
+    "state_code": "S20", 
+    "state_name": "Rajasthan", 
+    "ac_code": "132", 
+    "ac_name": "Jaisalmer"
+  }, 
+  {
+    "state_code": "S20", 
+    "state_name": "Rajasthan", 
+    "ac_code": "116", 
+    "ac_name": "Jaitaran"
+  }, 
+  {
+    "state_code": "S20", 
+    "state_name": "Rajasthan", 
+    "ac_code": "142", 
+    "ac_name": "Jalore"
+  }, 
+  {
+    "state_code": "S20", 
+    "state_name": "Rajasthan", 
+    "ac_code": "48", 
+    "ac_name": "Jamwa ramgarh"
+  }, 
+  {
+    "state_code": "S20", 
+    "state_name": "Rajasthan", 
+    "ac_code": "108", 
+    "ac_name": "Jayal"
+  }, 
+  {
+    "state_code": "S20", 
+    "state_name": "Rajasthan", 
+    "ac_code": "150", 
+    "ac_name": "Jhadol"
+  }, 
+  {
+    "state_code": "S20", 
+    "state_name": "Rajasthan", 
+    "ac_code": "198", 
+    "ac_name": "Jhalrapatan"
+  }, 
+  {
+    "state_code": "S20", 
+    "state_name": "Rajasthan", 
+    "ac_code": "46", 
+    "ac_name": "Jhotwara"
+  }, 
+  {
+    "state_code": "S20", 
+    "state_name": "Rajasthan", 
+    "ac_code": "27", 
+    "ac_name": "Jhunjhunu"
+  }, 
+  {
+    "state_code": "S20", 
+    "state_name": "Rajasthan", 
+    "ac_code": "128", 
+    "ac_name": "Jodhpur"
+  }, 
+  {
+    "state_code": "S20", 
+    "state_name": "Rajasthan", 
+    "ac_code": "70", 
+    "ac_name": "Kaman"
+  }, 
+  {
+    "state_code": "S20", 
+    "state_name": "Rajasthan", 
+    "ac_code": "167", 
+    "ac_name": "Kapasan"
+  }, 
+  {
+    "state_code": "S20", 
+    "state_name": "Rajasthan", 
+    "ac_code": "3", 
+    "ac_name": "Karanpur"
+  }, 
+  {
+    "state_code": "S20", 
+    "state_name": "Rajasthan", 
+    "ac_code": "83", 
+    "ac_name": "Karauli"
+  }, 
+  {
+    "state_code": "S20", 
+    "state_name": "Rajasthan", 
+    "ac_code": "69", 
+    "ac_name": "Kathumar"
+  }, 
+  {
+    "state_code": "S20", 
+    "state_name": "Rajasthan", 
+    "ac_code": "105", 
+    "ac_name": "Kekri"
+  }, 
+  {
+    "state_code": "S20", 
+    "state_name": "Rajasthan", 
+    "ac_code": "185", 
+    "ac_name": "Keshoraipatan"
+  }, 
+  {
+    "state_code": "S20", 
+    "state_name": "Rajasthan", 
+    "ac_code": "12", 
+    "ac_name": "Khajuwala"
+  }, 
+  {
+    "state_code": "S20", 
+    "state_name": "Rajasthan", 
+    "ac_code": "93", 
+    "ac_name": "Khandar"
+  }, 
+  {
+    "state_code": "S20", 
+    "state_name": "Rajasthan", 
+    "ac_code": "37", 
+    "ac_name": "Khandela"
+  }, 
+  {
+    "state_code": "S20", 
+    "state_name": "Rajasthan", 
+    "ac_code": "199", 
+    "ac_name": "Khanpur"
+  }, 
+  {
+    "state_code": "S20", 
+    "state_name": "Rajasthan", 
+    "ac_code": "151", 
+    "ac_name": "Kherwara"
+  }, 
+  {
+    "state_code": "S20", 
+    "state_name": "Rajasthan", 
+    "ac_code": "31", 
+    "ac_name": "Khetri"
+  }, 
+  {
+    "state_code": "S20", 
+    "state_name": "Rajasthan", 
+    "ac_code": "110", 
+    "ac_name": "Khinwsar"
+  }, 
+  {
+    "state_code": "S20", 
+    "state_name": "Rajasthan", 
+    "ac_code": "52", 
+    "ac_name": "Kishan pole"
+  }, 
+  {
+    "state_code": "S20", 
+    "state_name": "Rajasthan", 
+    "ac_code": "194", 
+    "ac_name": "Kishanganj"
+  }, 
+  {
+    "state_code": "S20", 
+    "state_name": "Rajasthan", 
+    "ac_code": "98", 
+    "ac_name": "Kishangarh"
+  }, 
+  {
+    "state_code": "S20", 
+    "state_name": "Rajasthan", 
+    "ac_code": "60", 
+    "ac_name": "Kishangarh bas"
+  }, 
+  {
+    "state_code": "S20", 
+    "state_name": "Rajasthan", 
+    "ac_code": "15", 
+    "ac_name": "Kolayat"
+  }, 
+  {
+    "state_code": "S20", 
+    "state_name": "Rajasthan", 
+    "ac_code": "189", 
+    "ac_name": "Kota North"
+  }, 
+  {
+    "state_code": "S20", 
+    "state_name": "Rajasthan", 
+    "ac_code": "190", 
+    "ac_name": "Kota South"
+  }, 
+  {
+    "state_code": "S20", 
+    "state_name": "Rajasthan", 
+    "ac_code": "40", 
+    "ac_name": "Kotputli"
+  }, 
+  {
+    "state_code": "S20", 
+    "state_name": "Rajasthan", 
+    "ac_code": "174", 
+    "ac_name": "Kumbhalgarh"
+  }, 
+  {
+    "state_code": "S20", 
+    "state_name": "Rajasthan", 
+    "ac_code": "166", 
+    "ac_name": "Kushalgarh"
+  }, 
+  {
+    "state_code": "S20", 
+    "state_name": "Rajasthan", 
+    "ac_code": "33", 
+    "ac_name": "Lachhmangarh"
+  }, 
+  {
+    "state_code": "S20", 
+    "state_name": "Rajasthan", 
+    "ac_code": "106", 
+    "ac_name": "Ladnun"
+  }, 
+  {
+    "state_code": "S20", 
+    "state_name": "Rajasthan", 
+    "ac_code": "191", 
+    "ac_name": "Ladpura"
+  }, 
+  {
+    "state_code": "S20", 
+    "state_name": "Rajasthan", 
+    "ac_code": "89", 
+    "ac_name": "Lalsot"
+  }, 
+  {
+    "state_code": "S20", 
+    "state_name": "Rajasthan", 
+    "ac_code": "123", 
+    "ac_name": "Lohawat"
+  }, 
+  {
+    "state_code": "S20", 
+    "state_name": "Rajasthan", 
+    "ac_code": "130", 
+    "ac_name": "Luni"
+  }, 
+  {
+    "state_code": "S20", 
+    "state_name": "Rajasthan", 
+    "ac_code": "16", 
+    "ac_name": "Lunkaransar"
+  }, 
+  {
+    "state_code": "S20", 
+    "state_name": "Rajasthan", 
+    "ac_code": "86", 
+    "ac_name": "Mahuwa"
+  }, 
+  {
+    "state_code": "S20", 
+    "state_name": "Rajasthan", 
+    "ac_code": "113", 
+    "ac_name": "Makrana"
+  }, 
+  {
+    "state_code": "S20", 
+    "state_name": "Rajasthan", 
+    "ac_code": "94", 
+    "ac_name": "Malpura"
+  }, 
+  {
+    "state_code": "S20", 
+    "state_name": "Rajasthan", 
+    "ac_code": "54", 
+    "ac_name": "Malviya Nagar"
+  }, 
+  {
+    "state_code": "S20", 
+    "state_name": "Rajasthan", 
+    "ac_code": "178", 
+    "ac_name": "Mandal"
+  }, 
+  {
+    "state_code": "S20", 
+    "state_name": "Rajasthan", 
+    "ac_code": "183", 
+    "ac_name": "Mandalgarh"
+  }, 
+  {
+    "state_code": "S20", 
+    "state_name": "Rajasthan", 
+    "ac_code": "28", 
+    "ac_name": "Mandawa"
+  }, 
+  {
+    "state_code": "S20", 
+    "state_name": "Rajasthan", 
+    "ac_code": "200", 
+    "ac_name": "Manohar thana"
+  }, 
+  {
+    "state_code": "S20", 
+    "state_name": "Rajasthan", 
+    "ac_code": "119", 
+    "ac_name": "Marwar junction"
+  }, 
+  {
+    "state_code": "S20", 
+    "state_name": "Rajasthan", 
+    "ac_code": "104", 
+    "ac_name": "Masuda"
+  }, 
+  {
+    "state_code": "S20", 
+    "state_name": "Rajasthan", 
+    "ac_code": "154", 
+    "ac_name": "Mavli"
+  }, 
+  {
+    "state_code": "S20", 
+    "state_name": "Rajasthan", 
+    "ac_code": "111", 
+    "ac_name": "Merta"
+  }, 
+  {
+    "state_code": "S20", 
+    "state_name": "Rajasthan", 
+    "ac_code": "61", 
+    "ac_name": "Mundawar"
+  }, 
+  {
+    "state_code": "S20", 
+    "state_name": "Rajasthan", 
+    "ac_code": "74", 
+    "ac_name": "Nadbai"
+  }, 
+  {
+    "state_code": "S20", 
+    "state_name": "Rajasthan", 
+    "ac_code": "71", 
+    "ac_name": "Nagar"
+  }, 
+  {
+    "state_code": "S20", 
+    "state_name": "Rajasthan", 
+    "ac_code": "109", 
+    "ac_name": "NAGAUR"
+  }, 
+  {
+    "state_code": "S20", 
+    "state_name": "Rajasthan", 
+    "ac_code": "102", 
+    "ac_name": "Nasirabad"
+  }, 
+  {
+    "state_code": "S20", 
+    "state_name": "Rajasthan", 
+    "ac_code": "176", 
+    "ac_name": "Nathdwara"
+  }, 
+  {
+    "state_code": "S20", 
+    "state_name": "Rajasthan", 
+    "ac_code": "29", 
+    "ac_name": "Nawalgarh"
+  }, 
+  {
+    "state_code": "S20", 
+    "state_name": "Rajasthan", 
+    "ac_code": "115", 
+    "ac_name": "Nawan"
+  }, 
+  {
+    "state_code": "S20", 
+    "state_name": "Rajasthan", 
+    "ac_code": "38", 
+    "ac_name": "Neem ka Thana"
+  }, 
+  {
+    "state_code": "S20", 
+    "state_name": "Rajasthan", 
+    "ac_code": "170", 
+    "ac_name": "Nimbahera"
+  }, 
+  {
+    "state_code": "S20", 
+    "state_name": "Rajasthan", 
+    "ac_code": "95", 
+    "ac_name": "Niwai"
+  }, 
+  {
+    "state_code": "S20", 
+    "state_name": "Rajasthan", 
+    "ac_code": "10", 
+    "ac_name": "Nohar"
+  }, 
+  {
+    "state_code": "S20", 
+    "state_name": "Rajasthan", 
+    "ac_code": "18", 
+    "ac_name": "Nokha"
+  }, 
+  {
+    "state_code": "S20", 
+    "state_name": "Rajasthan", 
+    "ac_code": "125", 
+    "ac_name": "Osian"
+  }, 
+  {
+    "state_code": "S20", 
+    "state_name": "Rajasthan", 
+    "ac_code": "137", 
+    "ac_name": "Pachpadra"
+  }, 
+  {
+    "state_code": "S20", 
+    "state_name": "Rajasthan", 
+    "ac_code": "118", 
+    "ac_name": "Pali"
+  }, 
+  {
+    "state_code": "S20", 
+    "state_name": "Rajasthan", 
+    "ac_code": "114", 
+    "ac_name": "Parbatsar"
+  }, 
+  {
+    "state_code": "S20", 
+    "state_name": "Rajasthan", 
+    "ac_code": "122", 
+    "ac_name": "Phalodi"
+  }, 
+  {
+    "state_code": "S20", 
+    "state_name": "Rajasthan", 
+    "ac_code": "44", 
+    "ac_name": "Phulera"
+  }, 
+  {
+    "state_code": "S20", 
+    "state_name": "Rajasthan", 
+    "ac_code": "25", 
+    "ac_name": "Pilani"
+  }, 
+  {
+    "state_code": "S20", 
+    "state_name": "Rajasthan", 
+    "ac_code": "9", 
+    "ac_name": "Pilibanga"
+  }, 
+  {
+    "state_code": "S20", 
+    "state_name": "Rajasthan", 
+    "ac_code": "147", 
+    "ac_name": "Pindwara abu"
+  }, 
+  {
+    "state_code": "S20", 
+    "state_name": "Rajasthan", 
+    "ac_code": "187", 
+    "ac_name": "Pipalda"
+  }, 
+  {
+    "state_code": "S20", 
+    "state_name": "Rajasthan", 
+    "ac_code": "133", 
+    "ac_name": "Pokaran"
+  }, 
+  {
+    "state_code": "S20", 
+    "state_name": "Rajasthan", 
+    "ac_code": "172", 
+    "ac_name": "Pratapgarh"
+  }, 
+  {
+    "state_code": "S20", 
+    "state_name": "Rajasthan", 
+    "ac_code": "99", 
+    "ac_name": "Pushkar"
+  }, 
+  {
+    "state_code": "S20", 
+    "state_name": "Rajasthan", 
+    "ac_code": "5", 
+    "ac_name": "Raisingh Nagar"
+  }, 
+  {
+    "state_code": "S20", 
+    "state_name": "Rajasthan", 
+    "ac_code": "80", 
+    "ac_name": "Rajakhera"
+  }, 
+  {
+    "state_code": "S20", 
+    "state_name": "Rajasthan", 
+    "ac_code": "68", 
+    "ac_name": "Rajgarh laxmangarh"
+  }, 
+  {
+    "state_code": "S20", 
+    "state_name": "Rajasthan", 
+    "ac_code": "175", 
+    "ac_name": "Rajsamand"
+  }, 
+  {
+    "state_code": "S20", 
+    "state_name": "Rajasthan", 
+    "ac_code": "192", 
+    "ac_name": "Ramganj mandi"
+  }, 
+  {
+    "state_code": "S20", 
+    "state_name": "Rajasthan", 
+    "ac_code": "67", 
+    "ac_name": "Ramgarh"
+  }, 
+  {
+    "state_code": "S20", 
+    "state_name": "Rajasthan", 
+    "ac_code": "145", 
+    "ac_name": "Raniwara"
+  }, 
+  {
+    "state_code": "S20", 
+    "state_name": "Rajasthan", 
+    "ac_code": "23", 
+    "ac_name": "Ratangarh"
+  }, 
+  {
+    "state_code": "S20", 
+    "state_name": "Rajasthan", 
+    "ac_code": "148", 
+    "ac_name": "Reodar"
+  }, 
+  {
+    "state_code": "S20", 
+    "state_name": "Rajasthan", 
+    "ac_code": "19", 
+    "ac_name": "Sadulpur"
+  }, 
+  {
+    "state_code": "S20", 
+    "state_name": "Rajasthan", 
+    "ac_code": "1", 
+    "ac_name": "Sadulshahar"
+  }, 
+  {
+    "state_code": "S20", 
+    "state_name": "Rajasthan", 
+    "ac_code": "160", 
+    "ac_name": "Sagwara"
+  }, 
+  {
+    "state_code": "S20", 
+    "state_name": "Rajasthan", 
+    "ac_code": "179", 
+    "ac_name": "Sahara"
+  }, 
+  {
+    "state_code": "S20", 
+    "state_name": "Rajasthan", 
+    "ac_code": "156", 
+    "ac_name": "Salumber"
+  }, 
+  {
+    "state_code": "S20", 
+    "state_name": "Rajasthan", 
+    "ac_code": "144", 
+    "ac_name": "Sanchore"
+  }, 
+  {
+    "state_code": "S20", 
+    "state_name": "Rajasthan", 
+    "ac_code": "55", 
+    "ac_name": "Sanganer"
+  }, 
+  {
+    "state_code": "S20", 
+    "state_name": "Rajasthan", 
+    "ac_code": "7", 
+    "ac_name": "Sangaria"
+  }, 
+  {
+    "state_code": "S20", 
+    "state_name": "Rajasthan", 
+    "ac_code": "188", 
+    "ac_name": "Sangod"
+  }, 
+  {
+    "state_code": "S20", 
+    "state_name": "Rajasthan", 
+    "ac_code": "84", 
+    "ac_name": "Sapotra"
+  }, 
+  {
+    "state_code": "S20", 
+    "state_name": "Rajasthan", 
+    "ac_code": "127", 
+    "ac_name": "Sardarpura"
+  }, 
+  {
+    "state_code": "S20", 
+    "state_name": "Rajasthan", 
+    "ac_code": "21", 
+    "ac_name": "Sardarshahar"
+  }, 
+  {
+    "state_code": "S20", 
+    "state_name": "Rajasthan", 
+    "ac_code": "92", 
+    "ac_name": "Sawai madhopur"
+  }, 
+  {
+    "state_code": "S20", 
+    "state_name": "Rajasthan", 
+    "ac_code": "42", 
+    "ac_name": "Shahpura"
+  }, 
+  {
+    "state_code": "S20", 
+    "state_name": "Rajasthan", 
+    "ac_code": "181", 
+    "ac_name": "Shahpura"
+  }, 
+  {
+    "state_code": "S20", 
+    "state_name": "Rajasthan", 
+    "ac_code": "134", 
+    "ac_name": "Sheo"
+  }, 
+  {
+    "state_code": "S20", 
+    "state_name": "Rajasthan", 
+    "ac_code": "124", 
+    "ac_name": "Shergarh"
+  }, 
+  {
+    "state_code": "S20", 
+    "state_name": "Rajasthan", 
+    "ac_code": "17", 
+    "ac_name": "SHREE DUNGARGARH"
+  }, 
+  {
+    "state_code": "S20", 
+    "state_name": "Rajasthan", 
+    "ac_code": "35", 
+    "ac_name": "Sikar"
+  }, 
+  {
+    "state_code": "S20", 
+    "state_name": "Rajasthan", 
+    "ac_code": "87", 
+    "ac_name": "Sikrai"
+  }, 
+  {
+    "state_code": "S20", 
+    "state_name": "Rajasthan", 
+    "ac_code": "146", 
+    "ac_name": "Sirohi"
+  }, 
+  {
+    "state_code": "S20", 
+    "state_name": "Rajasthan", 
+    "ac_code": "138", 
+    "ac_name": "Siwana"
+  }, 
+  {
+    "state_code": "S20", 
+    "state_name": "Rajasthan", 
+    "ac_code": "117", 
+    "ac_name": "Sojat"
+  }, 
+  {
+    "state_code": "S20", 
+    "state_name": "Rajasthan", 
+    "ac_code": "129", 
+    "ac_name": "Soorsagar"
+  }, 
+  {
+    "state_code": "S20", 
+    "state_name": "Rajasthan", 
+    "ac_code": "39", 
+    "ac_name": "Srimadhopur"
+  }, 
+  {
+    "state_code": "S20", 
+    "state_name": "Rajasthan", 
+    "ac_code": "24", 
+    "ac_name": "Sujangarh"
+  }, 
+  {
+    "state_code": "S20", 
+    "state_name": "Rajasthan", 
+    "ac_code": "121", 
+    "ac_name": "Sumerpur"
+  }, 
+  {
+    "state_code": "S20", 
+    "state_name": "Rajasthan", 
+    "ac_code": "26", 
+    "ac_name": "Surajgarh"
+  }, 
+  {
+    "state_code": "S20", 
+    "state_name": "Rajasthan", 
+    "ac_code": "4", 
+    "ac_name": "Suratgarh"
+  }, 
+  {
+    "state_code": "S20", 
+    "state_name": "Rajasthan", 
+    "ac_code": "20", 
+    "ac_name": "Taranagar"
+  }, 
+  {
+    "state_code": "S20", 
+    "state_name": "Rajasthan", 
+    "ac_code": "64", 
+    "ac_name": "Thanagazi"
+  }, 
+  {
+    "state_code": "S20", 
+    "state_name": "Rajasthan", 
+    "ac_code": "59", 
+    "ac_name": "Tijara"
+  }, 
+  {
+    "state_code": "S20", 
+    "state_name": "Rajasthan", 
+    "ac_code": "81", 
+    "ac_name": "Todabhim"
+  }, 
+  {
+    "state_code": "S20", 
+    "state_name": "Rajasthan", 
+    "ac_code": "96", 
+    "ac_name": "Tonk"
+  }, 
+  {
+    "state_code": "S20", 
+    "state_name": "Rajasthan", 
+    "ac_code": "153", 
+    "ac_name": "Udaipur"
+  }, 
+  {
+    "state_code": "S20", 
+    "state_name": "Rajasthan", 
+    "ac_code": "152", 
+    "ac_name": "Udaipur Rural"
+  }, 
+  {
+    "state_code": "S20", 
+    "state_name": "Rajasthan", 
+    "ac_code": "30", 
+    "ac_name": "Udaipurwati"
+  }, 
+  {
+    "state_code": "S20", 
+    "state_name": "Rajasthan", 
+    "ac_code": "155", 
+    "ac_name": "Vallabh Nagar"
+  }, 
+  {
+    "state_code": "S20", 
+    "state_name": "Rajasthan", 
+    "ac_code": "50", 
+    "ac_name": "Vidhyadhar Nagar"
+  }, 
+  {
+    "state_code": "S20", 
+    "state_name": "Rajasthan", 
+    "ac_code": "41", 
+    "ac_name": "Viratnagar"
+  }, 
+  {
+    "state_code": "S20", 
+    "state_name": "Rajasthan", 
+    "ac_code": "75", 
+    "ac_name": "Weir"
+  }, 
+  {
+    "state_code": "S29", 
+    "state_name": "Telangana", 
+    "ac_code": "82", 
+    "ac_name": "Achampet"
+  }, 
+  {
+    "state_code": "S29", 
+    "state_name": "Telangana", 
+    "ac_code": "7", 
+    "ac_name": "Adilabad"
+  }, 
+  {
+    "state_code": "S29", 
+    "state_name": "Telangana", 
+    "ac_code": "97", 
+    "ac_name": "Alair"
+  }, 
+  {
+    "state_code": "S29", 
+    "state_name": "Telangana", 
+    "ac_code": "80", 
+    "ac_name": "Alampur"
+  }, 
+  {
+    "state_code": "S29", 
+    "state_name": "Telangana", 
+    "ac_code": "59", 
+    "ac_name": "Amberpet"
+  }, 
+  {
+    "state_code": "S29", 
+    "state_name": "Telangana", 
+    "ac_code": "36", 
+    "ac_name": "Andole"
+  }, 
+  {
+    "state_code": "S29", 
+    "state_name": "Telangana", 
+    "ac_code": "11", 
+    "ac_name": "Armur"
+  }, 
+  {
+    "state_code": "S29", 
+    "state_name": "Telangana", 
+    "ac_code": "5", 
+    "ac_name": "Asifabad"
+  }, 
+  {
+    "state_code": "S29", 
+    "state_name": "Telangana", 
+    "ac_code": "118", 
+    "ac_name": "Aswaraopeta"
+  }, 
+  {
+    "state_code": "S29", 
+    "state_name": "Telangana", 
+    "ac_code": "69", 
+    "ac_name": "Bahadurpura"
+  }, 
+  {
+    "state_code": "S29", 
+    "state_name": "Telangana", 
+    "ac_code": "19", 
+    "ac_name": "Balkonda"
+  }, 
+  {
+    "state_code": "S29", 
+    "state_name": "Telangana", 
+    "ac_code": "14", 
+    "ac_name": "Banswada"
+  }, 
+  {
+    "state_code": "S29", 
+    "state_name": "Telangana", 
+    "ac_code": "3", 
+    "ac_name": "Bellampalli"
+  }, 
+  {
+    "state_code": "S29", 
+    "state_name": "Telangana", 
+    "ac_code": "119", 
+    "ac_name": "Bhadrachalam"
+  }, 
+  {
+    "state_code": "S29", 
+    "state_name": "Telangana", 
+    "ac_code": "94", 
+    "ac_name": "Bhongir"
+  }, 
+  {
+    "state_code": "S29", 
+    "state_name": "Telangana", 
+    "ac_code": "108", 
+    "ac_name": "Bhupalpalle"
+  }, 
+  {
+    "state_code": "S29", 
+    "state_name": "Telangana", 
+    "ac_code": "8", 
+    "ac_name": "Boath"
+  }, 
+  {
+    "state_code": "S29", 
+    "state_name": "Telangana", 
+    "ac_code": "12", 
+    "ac_name": "Bodhan"
+  }, 
+  {
+    "state_code": "S29", 
+    "state_name": "Telangana", 
+    "ac_code": "67", 
+    "ac_name": "Chandrayangutta"
+  }, 
+  {
+    "state_code": "S29", 
+    "state_name": "Telangana", 
+    "ac_code": "66", 
+    "ac_name": "Charminar"
+  }, 
+  {
+    "state_code": "S29", 
+    "state_name": "Telangana", 
+    "ac_code": "2", 
+    "ac_name": "Chennur"
+  }, 
+  {
+    "state_code": "S29", 
+    "state_name": "Telangana", 
+    "ac_code": "53", 
+    "ac_name": "Chevella"
+  }, 
+  {
+    "state_code": "S29", 
+    "state_name": "Telangana", 
+    "ac_code": "27", 
+    "ac_name": "Choppadandi"
+  }, 
+  {
+    "state_code": "S29", 
+    "state_name": "Telangana", 
+    "ac_code": "86", 
+    "ac_name": "Devarakonda"
+  }, 
+  {
+    "state_code": "S29", 
+    "state_name": "Telangana", 
+    "ac_code": "76", 
+    "ac_name": "Devarkadra"
+  }, 
+  {
+    "state_code": "S29", 
+    "state_name": "Telangana", 
+    "ac_code": "22", 
+    "ac_name": "Dharmapuri"
+  }, 
+  {
+    "state_code": "S29", 
+    "state_name": "Telangana", 
+    "ac_code": "101", 
+    "ac_name": "Dornakal"
+  }, 
+  {
+    "state_code": "S29", 
+    "state_name": "Telangana", 
+    "ac_code": "41", 
+    "ac_name": "Dubbak"
+  }, 
+  {
+    "state_code": "S29", 
+    "state_name": "Telangana", 
+    "ac_code": "79", 
+    "ac_name": "Gadwal"
+  }, 
+  {
+    "state_code": "S29", 
+    "state_name": "Telangana", 
+    "ac_code": "42", 
+    "ac_name": "Gajwel"
+  }, 
+  {
+    "state_code": "S29", 
+    "state_name": "Telangana", 
+    "ac_code": "99", 
+    "ac_name": "Ghanpur (Station)"
+  }, 
+  {
+    "state_code": "S29", 
+    "state_name": "Telangana", 
+    "ac_code": "65", 
+    "ac_name": "Goshamahal"
+  }, 
+  {
+    "state_code": "S29", 
+    "state_name": "Telangana", 
+    "ac_code": "32", 
+    "ac_name": "Husnabad"
+  }, 
+  {
+    "state_code": "S29", 
+    "state_name": "Telangana", 
+    "ac_code": "31", 
+    "ac_name": "Huzurabad"
+  }, 
+  {
+    "state_code": "S29", 
+    "state_name": "Telangana", 
+    "ac_code": "89", 
+    "ac_name": "Huzurnagar"
+  }, 
+  {
+    "state_code": "S29", 
+    "state_name": "Telangana", 
+    "ac_code": "48", 
+    "ac_name": "Ibrahimpatnam"
+  }, 
+  {
+    "state_code": "S29", 
+    "state_name": "Telangana", 
+    "ac_code": "75", 
+    "ac_name": "Jadcherla"
+  }, 
+  {
+    "state_code": "S29", 
+    "state_name": "Telangana", 
+    "ac_code": "21", 
+    "ac_name": "Jagtial"
+  }, 
+  {
+    "state_code": "S29", 
+    "state_name": "Telangana", 
+    "ac_code": "98", 
+    "ac_name": "Jangoan"
+  }, 
+  {
+    "state_code": "S29", 
+    "state_name": "Telangana", 
+    "ac_code": "61", 
+    "ac_name": "Jubilee Hills"
+  }, 
+  {
+    "state_code": "S29", 
+    "state_name": "Telangana", 
+    "ac_code": "13", 
+    "ac_name": "Jukkal"
+  }, 
+  {
+    "state_code": "S29", 
+    "state_name": "Telangana", 
+    "ac_code": "83", 
+    "ac_name": "Kalwakurthy"
+  }, 
+  {
+    "state_code": "S29", 
+    "state_name": "Telangana", 
+    "ac_code": "16", 
+    "ac_name": "Kamareddy"
+  }, 
+  {
+    "state_code": "S29", 
+    "state_name": "Telangana", 
+    "ac_code": "26", 
+    "ac_name": "Karimnagar"
+  }, 
+  {
+    "state_code": "S29", 
+    "state_name": "Telangana", 
+    "ac_code": "64", 
+    "ac_name": "Karwan"
+  }, 
+  {
+    "state_code": "S29", 
+    "state_name": "Telangana", 
+    "ac_code": "60", 
+    "ac_name": "Khairatabad"
+  }, 
+  {
+    "state_code": "S29", 
+    "state_name": "Telangana", 
+    "ac_code": "112", 
+    "ac_name": "Khammam"
+  }, 
+  {
+    "state_code": "S29", 
+    "state_name": "Telangana", 
+    "ac_code": "6", 
+    "ac_name": "Khanapur"
+  }, 
+  {
+    "state_code": "S29", 
+    "state_name": "Telangana", 
+    "ac_code": "90", 
+    "ac_name": "Kodad"
+  }, 
+  {
+    "state_code": "S29", 
+    "state_name": "Telangana", 
+    "ac_code": "72", 
+    "ac_name": "Kodangal"
+  }, 
+  {
+    "state_code": "S29", 
+    "state_name": "Telangana", 
+    "ac_code": "85", 
+    "ac_name": "Kollapur"
+  }, 
+  {
+    "state_code": "S29", 
+    "state_name": "Telangana", 
+    "ac_code": "20", 
+    "ac_name": "Koratla"
+  }, 
+  {
+    "state_code": "S29", 
+    "state_name": "Telangana", 
+    "ac_code": "117", 
+    "ac_name": "Kothagudem"
+  }, 
+  {
+    "state_code": "S29", 
+    "state_name": "Telangana", 
+    "ac_code": "46", 
+    "ac_name": "Kukatpally"
+  }, 
+  {
+    "state_code": "S29", 
+    "state_name": "Telangana", 
+    "ac_code": "49", 
+    "ac_name": "Lal Bahadur Nagar"
+  }, 
+  {
+    "state_code": "S29", 
+    "state_name": "Telangana", 
+    "ac_code": "114", 
+    "ac_name": "Madhira"
+  }, 
+  {
+    "state_code": "S29", 
+    "state_name": "Telangana", 
+    "ac_code": "102", 
+    "ac_name": "Mahabubabad"
+  }, 
+  {
+    "state_code": "S29", 
+    "state_name": "Telangana", 
+    "ac_code": "74", 
+    "ac_name": "Mahbubnagar"
+  }, 
+  {
+    "state_code": "S29", 
+    "state_name": "Telangana", 
+    "ac_code": "50", 
+    "ac_name": "Maheshwaram"
+  }, 
+  {
+    "state_code": "S29", 
+    "state_name": "Telangana", 
+    "ac_code": "77", 
+    "ac_name": "Makthal"
+  }, 
+  {
+    "state_code": "S29", 
+    "state_name": "Telangana", 
+    "ac_code": "58", 
+    "ac_name": "Malakpet"
+  }, 
+  {
+    "state_code": "S29", 
+    "state_name": "Telangana", 
+    "ac_code": "44", 
+    "ac_name": "Malkajgiri"
+  }, 
+  {
+    "state_code": "S29", 
+    "state_name": "Telangana", 
+    "ac_code": "30", 
+    "ac_name": "Manakondur"
+  }, 
+  {
+    "state_code": "S29", 
+    "state_name": "Telangana", 
+    "ac_code": "4", 
+    "ac_name": "Mancherial"
+  }, 
+  {
+    "state_code": "S29", 
+    "state_name": "Telangana", 
+    "ac_code": "24", 
+    "ac_name": "Manthani"
+  }, 
+  {
+    "state_code": "S29", 
+    "state_name": "Telangana", 
+    "ac_code": "34", 
+    "ac_name": "Medak"
+  }, 
+  {
+    "state_code": "S29", 
+    "state_name": "Telangana", 
+    "ac_code": "43", 
+    "ac_name": "Medchal"
+  }, 
+  {
+    "state_code": "S29", 
+    "state_name": "Telangana", 
+    "ac_code": "88", 
+    "ac_name": "Miryalguda"
+  }, 
+  {
+    "state_code": "S29", 
+    "state_name": "Telangana", 
+    "ac_code": "10", 
+    "ac_name": "Mudhole"
+  }, 
+  {
+    "state_code": "S29", 
+    "state_name": "Telangana", 
+    "ac_code": "109", 
+    "ac_name": "Mulug"
+  }, 
+  {
+    "state_code": "S29", 
+    "state_name": "Telangana", 
+    "ac_code": "93", 
+    "ac_name": "Munugode"
+  }, 
+  {
+    "state_code": "S29", 
+    "state_name": "Telangana", 
+    "ac_code": "57", 
+    "ac_name": "Musheerabad"
+  }, 
+  {
+    "state_code": "S29", 
+    "state_name": "Telangana", 
+    "ac_code": "87", 
+    "ac_name": "Nagarjuna Sagar"
+  }, 
+  {
+    "state_code": "S29", 
+    "state_name": "Telangana", 
+    "ac_code": "81", 
+    "ac_name": "Nagarkurnool"
+  }, 
+  {
+    "state_code": "S29", 
+    "state_name": "Telangana", 
+    "ac_code": "95", 
+    "ac_name": "Nakrekal"
+  }, 
+  {
+    "state_code": "S29", 
+    "state_name": "Telangana", 
+    "ac_code": "92", 
+    "ac_name": "Nalgonda"
+  }, 
+  {
+    "state_code": "S29", 
+    "state_name": "Telangana", 
+    "ac_code": "63", 
+    "ac_name": "Nampalli"
+  }, 
+  {
+    "state_code": "S29", 
+    "state_name": "Telangana", 
+    "ac_code": "35", 
+    "ac_name": "Narayankhed"
+  }, 
+  {
+    "state_code": "S29", 
+    "state_name": "Telangana", 
+    "ac_code": "73", 
+    "ac_name": "Narayanpet"
+  }, 
+  {
+    "state_code": "S29", 
+    "state_name": "Telangana", 
+    "ac_code": "103", 
+    "ac_name": "Narsampet"
+  }, 
+  {
+    "state_code": "S29", 
+    "state_name": "Telangana", 
+    "ac_code": "37", 
+    "ac_name": "Narsapur"
+  }, 
+  {
+    "state_code": "S29", 
+    "state_name": "Telangana", 
+    "ac_code": "9", 
+    "ac_name": "Nirmal"
+  }, 
+  {
+    "state_code": "S29", 
+    "state_name": "Telangana", 
+    "ac_code": "18", 
+    "ac_name": "Nizamabad (Rural)"
+  }, 
+  {
+    "state_code": "S29", 
+    "state_name": "Telangana", 
+    "ac_code": "17", 
+    "ac_name": "Nizamabad (Urban)"
+  }, 
+  {
+    "state_code": "S29", 
+    "state_name": "Telangana", 
+    "ac_code": "113", 
+    "ac_name": "Palair"
+  }, 
+  {
+    "state_code": "S29", 
+    "state_name": "Telangana", 
+    "ac_code": "100", 
+    "ac_name": "Palakurthi"
+  }, 
+  {
+    "state_code": "S29", 
+    "state_name": "Telangana", 
+    "ac_code": "54", 
+    "ac_name": "PARGI"
+  }, 
+  {
+    "state_code": "S29", 
+    "state_name": "Telangana", 
+    "ac_code": "104", 
+    "ac_name": "Parkal"
+  }, 
+  {
+    "state_code": "S29", 
+    "state_name": "Telangana", 
+    "ac_code": "40", 
+    "ac_name": "Patancheru"
+  }, 
+  {
+    "state_code": "S29", 
+    "state_name": "Telangana", 
+    "ac_code": "25", 
+    "ac_name": "Peddapalle"
+  }, 
+  {
+    "state_code": "S29", 
+    "state_name": "Telangana", 
+    "ac_code": "110", 
+    "ac_name": "Pinapaka"
+  }, 
+  {
+    "state_code": "S29", 
+    "state_name": "Telangana", 
+    "ac_code": "45", 
+    "ac_name": "Quthbullapur"
+  }, 
+  {
+    "state_code": "S29", 
+    "state_name": "Telangana", 
+    "ac_code": "51", 
+    "ac_name": "Rajendranagar"
+  }, 
+  {
+    "state_code": "S29", 
+    "state_name": "Telangana", 
+    "ac_code": "23", 
+    "ac_name": "Ramagundam"
+  }, 
+  {
+    "state_code": "S29", 
+    "state_name": "Telangana", 
+    "ac_code": "62", 
+    "ac_name": "Sanath Nagar"
+  }, 
+  {
+    "state_code": "S29", 
+    "state_name": "Telangana", 
+    "ac_code": "39", 
+    "ac_name": "Sangareddy"
+  }, 
+  {
+    "state_code": "S29", 
+    "state_name": "Telangana", 
+    "ac_code": "116", 
+    "ac_name": "Sathupalli"
+  }, 
+  {
+    "state_code": "S29", 
+    "state_name": "Telangana", 
+    "ac_code": "70", 
+    "ac_name": "secunderabad"
+  }, 
+  {
+    "state_code": "S29", 
+    "state_name": "Telangana", 
+    "ac_code": "71", 
+    "ac_name": "Secunderabad Cantt."
+  }, 
+  {
+    "state_code": "S29", 
+    "state_name": "Telangana", 
+    "ac_code": "52", 
+    "ac_name": "Serilingampally"
+  }, 
+  {
+    "state_code": "S29", 
+    "state_name": "Telangana", 
+    "ac_code": "84", 
+    "ac_name": "Shadnagar"
+  }, 
+  {
+    "state_code": "S29", 
+    "state_name": "Telangana", 
+    "ac_code": "33", 
+    "ac_name": "Siddipet"
+  }, 
+  {
+    "state_code": "S29", 
+    "state_name": "Telangana", 
+    "ac_code": "29", 
+    "ac_name": "Sircilla"
+  }, 
+  {
+    "state_code": "S29", 
+    "state_name": "Telangana", 
+    "ac_code": "1", 
+    "ac_name": "Sirpur"
+  }, 
+  {
+    "state_code": "S29", 
+    "state_name": "Telangana", 
+    "ac_code": "91", 
+    "ac_name": "Suryapet"
+  }, 
+  {
+    "state_code": "S29", 
+    "state_name": "Telangana", 
+    "ac_code": "56", 
+    "ac_name": "Tandur"
+  }, 
+  {
+    "state_code": "S29", 
+    "state_name": "Telangana", 
+    "ac_code": "96", 
+    "ac_name": "Thungathurthy"
+  }, 
+  {
+    "state_code": "S29", 
+    "state_name": "Telangana", 
+    "ac_code": "47", 
+    "ac_name": "Uppal"
+  }, 
+  {
+    "state_code": "S29", 
+    "state_name": "Telangana", 
+    "ac_code": "28", 
+    "ac_name": "Vemulawada"
+  }, 
+  {
+    "state_code": "S29", 
+    "state_name": "Telangana", 
+    "ac_code": "55", 
+    "ac_name": "Vikarabad"
+  }, 
+  {
+    "state_code": "S29", 
+    "state_name": "Telangana", 
+    "ac_code": "78", 
+    "ac_name": "Wanaparthy"
+  }, 
+  {
+    "state_code": "S29", 
+    "state_name": "Telangana", 
+    "ac_code": "106", 
+    "ac_name": "Warangal East"
+  }, 
+  {
+    "state_code": "S29", 
+    "state_name": "Telangana", 
+    "ac_code": "105", 
+    "ac_name": "Warangal West"
+  }, 
+  {
+    "state_code": "S29", 
+    "state_name": "Telangana", 
+    "ac_code": "107", 
+    "ac_name": "Wardhanapet"
+  }, 
+  {
+    "state_code": "S29", 
+    "state_name": "Telangana", 
+    "ac_code": "115", 
+    "ac_name": "Wyra"
+  }, 
+  {
+    "state_code": "S29", 
+    "state_name": "Telangana", 
+    "ac_code": "68", 
+    "ac_name": "Yakutpura"
+  }, 
+  {
+    "state_code": "S29", 
+    "state_name": "Telangana", 
+    "ac_code": "111", 
+    "ac_name": "Yellandu"
+  }, 
+  {
+    "state_code": "S29", 
+    "state_name": "Telangana", 
+    "ac_code": "15", 
+    "ac_name": "Yellareddy"
+  }, 
+  {
+    "state_code": "S29", 
+    "state_name": "Telangana", 
+    "ac_code": "38", 
+    "ac_name": "Zahirabad"
+  }
+]
